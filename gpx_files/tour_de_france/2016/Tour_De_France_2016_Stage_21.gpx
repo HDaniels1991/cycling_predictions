@@ -1,0 +1,1793 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Tour De France 2016 Stage 21</name>
+<rtept lat="49.19268" lon="2.46212">
+<ele>53</ele>
+<name>Start near</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Start near 27 Rue de Gouvieux, 60500 Chantilly, Frankrijk</cmt>
+<desc>Start near 27 Rue de Gouvieux, 60500 Chantilly, Frankrijk</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.19268" lon="2.46212">
+<ele>53</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Vertrek in westelijke richting op Rue de Gouvieux/de D909 naar Rue des Fontaines</cmt>
+<desc>Vertrek in westelijke richting op Rue de Gouvieux/de D909 naar Rue des Fontaines</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.18917" lon="2.44631">
+<ele>58</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:03:49Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Rue de Chantilly/de D909</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Rue de Chantilly/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.18795" lon="2.43336">
+<ele>68</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:06:43Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Rue de Chantilly/de D909</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Rue de Chantilly/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.18485" lon="2.41485">
+<ele>33</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T00:11:29Z</time>
+<cmt>Sla linksaf naar Rue de la Mairie/de D909</cmt>
+<desc>Sla linksaf naar Rue de la Mairie/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.18384" lon="2.40605">
+<ele>38</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:13:30Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Rue de Boran/de D909</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Rue de Boran/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.18214" lon="2.39938">
+<ele>48</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:15:10Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Rue de Boran/de D909</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Rue de Boran/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.17839" lon="2.38921">
+<ele>51</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:17:43Z</time>
+<cmt>Neem op de rotonde de 3e afslag op Avenue de Viarmes/de D909 richting Viarmes/Beaumont s/ Oise/Chambly</cmt>
+<desc>Neem op de rotonde de 3e afslag op Avenue de Viarmes/de D909 richting Viarmes/Beaumont s/ Oise/Chambly</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.1667" lon="2.38811">
+<ele>41</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:21:48Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Avenue de Viarmes/de D909</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Avenue de Viarmes/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.16144" lon="2.38735">
+<ele>30</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T00:23:41Z</time>
+<cmt>Sla rechtsaf naar Avenue de Royaumont/de D909</cmt>
+<desc>Sla rechtsaf naar Avenue de Royaumont/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.13793" lon="2.37315">
+<ele>48</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:32:12Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar de D922</cmt>
+<desc>Neem op de rotonde de 3e afslag naar de D922</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.11203" lon="2.39453">
+<ele>114</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T00:45:34Z</time>
+<cmt>Weg vervolgen naar de D909</cmt>
+<desc>Weg vervolgen naar de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.10528" lon="2.36664">
+<ele>146</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:52:08Z</time>
+<cmt>Neem op de rotonde de 4e afslag en rijd door op de D909</cmt>
+<desc>Neem op de rotonde de 4e afslag en rijd door op de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.09417" lon="2.36055">
+<ele>132</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:56:13Z</time>
+<cmt>Neem op de rotonde de 1ste afslag en rijd door op de D909</cmt>
+<desc>Neem op de rotonde de 1ste afslag en rijd door op de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.07372" lon="2.34539">
+<ele>120</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:04:01Z</time>
+<cmt>Neem op de rotonde de 3e afslag</cmt>
+<desc>Neem op de rotonde de 3e afslag</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.07272" lon="2.3466">
+<ele>118</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:04:36Z</time>
+<cmt>Vertrek in zuidoostelijke richting</cmt>
+<desc>Vertrek in zuidoostelijke richting</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.06063" lon="2.34961">
+<ele>110</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T01:08:50Z</time>
+<cmt>Sla linksaf richting Rue des Tilleuls</cmt>
+<desc>Sla linksaf richting Rue des Tilleuls</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.06065" lon="2.34971">
+<ele>110</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:08:52Z</time>
+<cmt>Sla rechtsaf richting Rue des Tilleuls</cmt>
+<desc>Sla rechtsaf richting Rue des Tilleuls</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.05909" lon="2.34955">
+<ele>108</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T01:09:25Z</time>
+<cmt>Weg vervolgen naar Rue des Tilleuls</cmt>
+<desc>Weg vervolgen naar Rue des Tilleuls</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.05904" lon="2.34953">
+<ele>108</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:09:26Z</time>
+<cmt>Vertrek in zuidelijke richting op Rue des Tilleuls naar Rue de l'Orme/de D9E</cmt>
+<desc>Vertrek in zuidelijke richting op Rue des Tilleuls naar Rue de l'Orme/de D9E</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.05828" lon="2.34928">
+<ele>108</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:09:41Z</time>
+<cmt>Sla rechtsaf naar Rue de l'Orme/de D9E</cmt>
+<desc>Sla rechtsaf naar Rue de l'Orme/de D9E</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.05803" lon="2.34701">
+<ele>105</ele>
+<name>Rue de lOr</name>
+<time>2018-06-28T01:10:12Z</time>
+<cmt>Rue de l'Orme/de D9E draait iets naar rechts en wordt Rue du Presbytère</cmt>
+<desc>Rue de l'Orme/de D9E draait iets naar rechts en wordt Rue du Presbytère</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.0579" lon="2.34545">
+<ele>96</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T01:10:32Z</time>
+<cmt>Sla linksaf naar Rue du Goulot</cmt>
+<desc>Sla linksaf naar Rue du Goulot</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.057" lon="2.34514">
+<ele>97</ele>
+<name>Rue du Gou</name>
+<time>2018-06-28T01:10:52Z</time>
+<cmt>Rue du Goulot draait naar rechts en wordt Rue de l'Orme/Rue de Moisselles/de D9E</cmt>
+<desc>Rue du Goulot draait naar rechts en wordt Rue de l'Orme/Rue de Moisselles/de D9E</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.05377" lon="2.34106">
+<ele>100</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:12:20Z</time>
+<cmt>Vertrek in zuidwestelijke richting op Rue de Moisselles/de D9E naar Rue de la Plaine de France</cmt>
+<desc>Vertrek in zuidwestelijke richting op Rue de Moisselles/de D9E naar Rue de la Plaine de France</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.05203" lon="2.33939">
+<ele>99</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:13:02Z</time>
+<cmt>Vertrek in zuidwestelijke richting op Rue de Moisselles/de D9E naar Rue de la Plaine de France</cmt>
+<desc>Vertrek in zuidwestelijke richting op Rue de Moisselles/de D9E naar Rue de la Plaine de France</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.05047" lon="2.33665">
+<ele>97</ele>
+<name>Ga in west</name>
+<time>2018-06-28T01:13:50Z</time>
+<cmt>Ga in westelijke riching op Rue de Moisselles/de D9E naar Chemin de Viarmes</cmt>
+<desc>Ga in westelijke riching op Rue de Moisselles/de D9E naar Chemin de Viarmes</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.05024" lon="2.3355">
+<ele>94</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T01:14:06Z</time>
+<cmt>Sla linksaf naar Rue de Paris/de D11</cmt>
+<desc>Sla linksaf naar Rue de Paris/de D11</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.05017" lon="2.33553">
+<ele>94</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:14:07Z</time>
+<cmt>Sla rechtsaf naar Rue Guy Vennat/de D909</cmt>
+<desc>Sla rechtsaf naar Rue Guy Vennat/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.04939" lon="2.33437">
+<ele>87</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:14:29Z</time>
+<cmt>Vertrek in zuidwestelijke richting op Rue Guy Vennat/de D909 naar Rue Jean Mermoz</cmt>
+<desc>Vertrek in zuidwestelijke richting op Rue Guy Vennat/de D909 naar Rue Jean Mermoz</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.04225" lon="2.32012">
+<ele>103</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:18:34Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Route Départementale 909/de D909</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Route Départementale 909/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.0279" lon="2.31169">
+<ele>154</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:24:46Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Route Départementale 909/de D909 naar Route des Fusillés</cmt>
+<desc>Vertrek in zuidoostelijke richting op Route Départementale 909/de D909 naar Route des Fusillés</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.01424" lon="2.28678">
+<ele>80</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:32:55Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Rue des Briqueteries</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Rue des Briqueteries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.01511" lon="2.28503">
+<ele>90</ele>
+<name>Rue des Br</name>
+<time>2018-06-28T01:33:26Z</time>
+<cmt>Rue des Briqueteries draait iets naar links en wordt Rue des Metigers</cmt>
+<desc>Rue des Briqueteries draait iets naar links en wordt Rue des Metigers</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.01689" lon="2.28111">
+<ele>119</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T01:34:30Z</time>
+<cmt>Sla linksaf naar Boulevard Armand Hayem/Route des Parquets</cmt>
+<desc>Sla linksaf naar Boulevard Armand Hayem/Route des Parquets</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.00431" lon="2.28167">
+<ele>67</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T01:38:50Z</time>
+<cmt>Flauwe bocht naar rechts naar   Rue de Paris/de D909</cmt>
+<desc>Flauwe bocht naar rechts naar   Rue de Paris/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="49.00363" lon="2.28126">
+<ele>65</ele>
+<name>Ga bij de </name>
+<time>2018-06-28T01:39:05Z</time>
+<cmt>Ga bij de rotonde rechtdoor naar Route de Montlignon</cmt>
+<desc>Ga bij de rotonde rechtdoor naar Route de Montlignon</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.99506" lon="2.27559">
+<ele>56</ele>
+<name>Ga bij de </name>
+<time>2018-06-28T01:42:15Z</time>
+<cmt>Ga bij de rotonde rechtdoor naar Carrefour Charles de Gaulle</cmt>
+<desc>Ga bij de rotonde rechtdoor naar Carrefour Charles de Gaulle</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.99449" lon="2.27526">
+<ele>53</ele>
+<name>Carrefour </name>
+<time>2018-06-28T01:42:29Z</time>
+<cmt>Carrefour Charles de Gaulle draait iets naar rechts en wordt Avenue Matlock</cmt>
+<desc>Carrefour Charles de Gaulle draait iets naar rechts en wordt Avenue Matlock</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.99417" lon="2.27502">
+<ele>51</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:42:36Z</time>
+<cmt>Vertrek in zuidwestelijke richting op Avenue Matlock naar Rond-Point du Souvenir Français</cmt>
+<desc>Vertrek in zuidwestelijke richting op Avenue Matlock naar Rond-Point du Souvenir Français</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.99368" lon="2.27466">
+<ele>50</ele>
+<name>Neem de 3e</name>
+<time>2018-06-28T01:42:47Z</time>
+<cmt>Neem de 3e afslag op Rond-Point du Souvenir Français naar Avenue de Budenheim/de D909</cmt>
+<desc>Neem de 3e afslag op Rond-Point du Souvenir Français naar Avenue de Budenheim/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.98018" lon="2.27035">
+<ele>46</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:47:36Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Rue de la Gare/de D909</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Rue de la Gare/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.97743" lon="2.26759">
+<ele>48</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:48:44Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Rue de la Gare/de D909</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Rue de la Gare/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.97691" lon="2.26724">
+<ele>47</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:48:55Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Rue de la Gare/de D909</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Rue de la Gare/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.97306" lon="2.26469">
+<ele>50</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:50:20Z</time>
+<cmt>Sla rechtsaf naar Rue du Président Georges Pompidou/de D909</cmt>
+<desc>Sla rechtsaf naar Rue du Président Georges Pompidou/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.97104" lon="2.26308">
+<ele>55</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:51:26Z</time>
+<cmt>Sla rechtsaf naar Rue Louis Moreaux</cmt>
+<desc>Sla rechtsaf naar Rue Louis Moreaux</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.9704" lon="2.26134">
+<ele>58</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:51:54Z</time>
+<cmt>Sla rechtsaf naar Boulevard Charles de Gaulle/de D14</cmt>
+<desc>Sla rechtsaf naar Boulevard Charles de Gaulle/de D14</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.9709" lon="2.25991">
+<ele>59</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:52:15Z</time>
+<cmt>Vertrek in noordwestelijke richting op Boulevard Charles de Gaulle/de D14 naar Avenue Mauvoisin</cmt>
+<desc>Vertrek in noordwestelijke richting op Boulevard Charles de Gaulle/de D14 naar Avenue Mauvoisin</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.97937" lon="2.23754">
+<ele>67</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:57:56Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar Rue de l'Ermitage/de D403</cmt>
+<desc>Neem op de rotonde de 3e afslag naar Rue de l'Ermitage/de D403</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.97819" lon="2.237">
+<ele>71</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:58:30Z</time>
+<cmt>Vertrek in zuidelijke richting op   Rue de l'Ermitage/de D403</cmt>
+<desc>Vertrek in zuidelijke richting op   Rue de l'Ermitage/de D403</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.97536" lon="2.23692">
+<ele>85</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:59:28Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Rue de l'Ermitage/de D122</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Rue de l'Ermitage/de D122</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.97306" lon="2.23649">
+<ele>100</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:00:16Z</time>
+<cmt>Vertrek in zuidelijke richting op   Rue de l'Ermitage/de D122</cmt>
+<desc>Vertrek in zuidelijke richting op   Rue de l'Ermitage/de D122</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.96982" lon="2.23593">
+<ele>132</ele>
+<name>Neem op de</name>
+<time>2018-06-28T02:01:22Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Route du Fort/de D122</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Route du Fort/de D122</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.9497" lon="2.24461">
+<ele>40</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:09:32Z</time>
+<cmt>Vertrek in zuidelijke richting op Avenue de Verdun/de D122 naar Rue Beer</cmt>
+<desc>Vertrek in zuidelijke richting op Avenue de Verdun/de D122 naar Rue Beer</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.94612" lon="2.24789">
+<ele>39</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T02:10:56Z</time>
+<cmt>Sla linksaf naar Boulevard Léon Feix/de D122</cmt>
+<desc>Sla linksaf naar Boulevard Léon Feix/de D122</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.9465" lon="2.24873">
+<ele>37</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:11:10Z</time>
+<cmt>Sla rechtsaf naar Avenue Gabriel Péri/de D122</cmt>
+<desc>Sla rechtsaf naar Avenue Gabriel Péri/de D122</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.94089" lon="2.25439">
+<ele>25</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T02:13:25Z</time>
+<cmt>Weg vervolgen naar Pont d'Argenteuil/de D909</cmt>
+<desc>Weg vervolgen naar Pont d'Argenteuil/de D909</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.93996" lon="2.25538">
+<ele>23</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:13:48Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Pont d'Argenteuil/de D909 naar Quai du Petit Gennevilliers</cmt>
+<desc>Vertrek in zuidoostelijke richting op Pont d'Argenteuil/de D909 naar Quai du Petit Gennevilliers</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.93763" lon="2.258">
+<ele>30</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:14:46Z</time>
+<cmt>Sla rechtsaf naar Boulevard de Valmy/de D13</cmt>
+<desc>Sla rechtsaf naar Boulevard de Valmy/de D13</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.92941" lon="2.25472">
+<ele>26</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:17:39Z</time>
+<cmt>Vertrek in zuidelijke richting op Boulevard de Valmy/de D13 naar Boulevard Pierre de Coubertin</cmt>
+<desc>Vertrek in zuidelijke richting op Boulevard de Valmy/de D13 naar Boulevard Pierre de Coubertin</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.92319" lon="2.25232">
+<ele>43</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T02:19:48Z</time>
+<cmt>Ga rechtdoor op Place du Général Leclerc/de D106</cmt>
+<desc>Ga rechtdoor op Place du Général Leclerc/de D106</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.90558" lon="2.2558">
+<ele>46</ele>
+<name>Neem op de</name>
+<time>2018-06-28T02:25:48Z</time>
+<cmt>Neem op de rotonde de 3e afslag op Boulevard de Verdun/de D908 richting Neuilly s/ Seine/Paris/Bois Colombes</cmt>
+<desc>Neem op de rotonde de 3e afslag op Boulevard de Verdun/de D908 richting Neuilly s/ Seine/Paris/Bois Colombes</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.9018" lon="2.25943">
+<ele>43</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:27:21Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Boulevard de Verdun/de D908 naar Avenue Dubonnet</cmt>
+<desc>Vertrek in zuidoostelijke richting op Boulevard de Verdun/de D908 naar Avenue Dubonnet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.89678" lon="2.26432">
+<ele>35</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:29:21Z</time>
+<cmt>Sla rechtsaf naar Rue Victor Hugo</cmt>
+<desc>Sla rechtsaf naar Rue Victor Hugo</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.89659" lon="2.26357">
+<ele>36</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T02:29:31Z</time>
+<cmt>Flauwe bocht naar links naar   Quai du Président Paul Doumer</cmt>
+<desc>Flauwe bocht naar links naar   Quai du Président Paul Doumer</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.89009" lon="2.25627">
+<ele>34</ele>
+<name>Houd links</name>
+<time>2018-06-28T02:32:14Z</time>
+<cmt>Houd links aan en rij door op Quai du Président Paul Doumer/de D7</cmt>
+<desc>Houd links aan en rij door op Quai du Président Paul Doumer/de D7</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86908" lon="2.23023">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:41:19Z</time>
+<cmt>Sla rechtsaf naar Rue du Bac</cmt>
+<desc>Sla rechtsaf naar Rue du Bac</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86912" lon="2.23014">
+<ele>33</ele>
+<name>Ga in zuid</name>
+<time>2018-06-28T02:41:21Z</time>
+<cmt>Ga in zuidoostelijke riching op Rue du Bac naar Quai Gallieni/de D7</cmt>
+<desc>Ga in zuidoostelijke riching op Rue du Bac naar Quai Gallieni/de D7</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86908" lon="2.23023">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:41:22Z</time>
+<cmt>Sla rechtsaf naar Quai Gallieni/de D7</cmt>
+<desc>Sla rechtsaf naar Quai Gallieni/de D7</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86798" lon="2.22907">
+<ele>32</ele>
+<name>Neem de op</name>
+<time>2018-06-28T02:41:49Z</time>
+<cmt>Neem de oprit naar D985 richting Suresnes-Centre</cmt>
+<desc>Neem de oprit naar D985 richting Suresnes-Centre</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86768" lon="2.2284">
+<ele>32</ele>
+<name>Houd links</name>
+<time>2018-06-28T02:42:00Z</time>
+<cmt>Houd links aan bij de splitsing</cmt>
+<desc>Houd links aan bij de splitsing</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86766" lon="2.22827">
+<ele>33</ele>
+<name>Ga in west</name>
+<time>2018-06-28T02:42:02Z</time>
+<cmt>Ga in westelijke richting naar Boulevard Henri Sellier/de D3</cmt>
+<desc>Ga in westelijke richting naar Boulevard Henri Sellier/de D3</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86749" lon="2.22725">
+<ele>36</ele>
+<name>Scherpe bo</name>
+<time>2018-06-28T02:42:15Z</time>
+<cmt>Scherpe bocht naar links naar   Boulevard Henri Sellier/de D3</cmt>
+<desc>Scherpe bocht naar links naar   Boulevard Henri Sellier/de D3</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.867" lon="2.22902">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:42:41Z</time>
+<cmt>Vertrek in oostelijke richting op   Pont de Suresnes/de D3</cmt>
+<desc>Vertrek in oostelijke richting op   Pont de Suresnes/de D3</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86651" lon="2.23089">
+<ele>38</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T02:43:08Z</time>
+<cmt>Weg vervolgen naar Route de Suresnes/de N185</cmt>
+<desc>Weg vervolgen naar Route de Suresnes/de N185</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87457" lon="2.27011">
+<ele>42</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:52:59Z</time>
+<cmt>Vertrek in noordoostelijke richting op Allée de Longchamp/de N185 naar Route de la Porte Dauphine à la Porte des Sablons</cmt>
+<desc>Vertrek in noordoostelijke richting op Allée de Longchamp/de N185 naar Route de la Porte Dauphine à la Porte des Sablons</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8774" lon="2.28132">
+<ele>38</ele>
+<name>Neem op de</name>
+<time>2018-06-28T02:55:43Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar Avenue de la Grande Armée</cmt>
+<desc>Neem op de rotonde de 3e afslag naar Avenue de la Grande Armée</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87397" lon="2.29421">
+<ele>60</ele>
+<name>Sla op de </name>
+<time>2018-06-28T02:58:51Z</time>
+<cmt>Sla op de rotonde af naar Av. des Champs-Élysées</cmt>
+<desc>Sla op de rotonde af naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87334" lon="2.29643">
+<ele>62</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:59:36Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</cmt>
+<desc>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86906" lon="2.30993">
+<ele>43</ele>
+<name>Neem op de</name>
+<time>2018-06-28T03:02:54Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:05:36Z</time>
+<cmt>Sla rechtsaf naar Place de la Concorde</cmt>
+<desc>Sla rechtsaf naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86516" lon="2.32043">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:05:46Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Place de la Concorde</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86473" lon="2.32058">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:05:57Z</time>
+<cmt>Sla rechtsaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla rechtsaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86409" lon="2.3201">
+<ele>30</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:06:11Z</time>
+<cmt>Sla linksaf richting Quai des Tuileries</cmt>
+<desc>Sla linksaf richting Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86365" lon="2.32145">
+<ele>31</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T03:06:31Z</time>
+<cmt>Weg vervolgen naar Quai des Tuileries</cmt>
+<desc>Weg vervolgen naar Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86143" lon="2.32834">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:08:12Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</cmt>
+<desc>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8609" lon="2.33008">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:08:37Z</time>
+<cmt>Sla linksaf naar Avenue du Général Lemonnier</cmt>
+<desc>Sla linksaf naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86376" lon="2.33205">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:09:41Z</time>
+<cmt>Sla linksaf naar Rue de Rivoli</cmt>
+<desc>Sla linksaf naar Rue de Rivoli</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86413" lon="2.3309">
+<ele>45</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:09:57Z</time>
+<cmt>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</cmt>
+<desc>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86638" lon="2.32342">
+<ele>40</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T03:11:46Z</time>
+<cmt>Weg vervolgen naar Place de la Concorde</cmt>
+<desc>Weg vervolgen naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86666" lon="2.322">
+<ele>41</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:12:06Z</time>
+<cmt>Sla linksaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla linksaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:12:36Z</time>
+<cmt>Sla rechtsaf naar Av. des Champs-Élysées</cmt>
+<desc>Sla rechtsaf naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86891" lon="2.31036">
+<ele>42</ele>
+<name>Neem op de</name>
+<time>2018-06-28T03:15:09Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87308" lon="2.29727">
+<ele>65</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T03:18:24Z</time>
+<cmt>Ga rechtdoor om op Av. des Champs-Élysées te blijven</cmt>
+<desc>Ga rechtdoor om op Av. des Champs-Élysées te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87352" lon="2.29583">
+<ele>60</ele>
+<name>Ga de roto</name>
+<time>2018-06-28T03:18:45Z</time>
+<cmt>Ga de rotonde op</cmt>
+<desc>Ga de rotonde op</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87397" lon="2.29421">
+<ele>60</ele>
+<name>Sla op de </name>
+<time>2018-06-28T03:19:23Z</time>
+<cmt>Sla op de rotonde af naar Av. des Champs-Élysées</cmt>
+<desc>Sla op de rotonde af naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87334" lon="2.29643">
+<ele>62</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:20:08Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</cmt>
+<desc>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86906" lon="2.30993">
+<ele>43</ele>
+<name>Neem op de</name>
+<time>2018-06-28T03:23:25Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:26:08Z</time>
+<cmt>Sla rechtsaf naar Place de la Concorde</cmt>
+<desc>Sla rechtsaf naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86516" lon="2.32043">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:26:18Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Place de la Concorde</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86473" lon="2.32058">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:26:28Z</time>
+<cmt>Sla rechtsaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla rechtsaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86409" lon="2.3201">
+<ele>30</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:26:42Z</time>
+<cmt>Sla linksaf richting Quai des Tuileries</cmt>
+<desc>Sla linksaf richting Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86365" lon="2.32145">
+<ele>31</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T03:27:02Z</time>
+<cmt>Weg vervolgen naar Quai des Tuileries</cmt>
+<desc>Weg vervolgen naar Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86143" lon="2.32834">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:28:44Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</cmt>
+<desc>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8609" lon="2.33008">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:29:09Z</time>
+<cmt>Sla linksaf naar Avenue du Général Lemonnier</cmt>
+<desc>Sla linksaf naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86376" lon="2.33205">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:30:12Z</time>
+<cmt>Sla linksaf naar Rue de Rivoli</cmt>
+<desc>Sla linksaf naar Rue de Rivoli</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86413" lon="2.3309">
+<ele>45</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:30:29Z</time>
+<cmt>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</cmt>
+<desc>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86638" lon="2.32342">
+<ele>40</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T03:32:18Z</time>
+<cmt>Weg vervolgen naar Place de la Concorde</cmt>
+<desc>Weg vervolgen naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86666" lon="2.322">
+<ele>41</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:32:38Z</time>
+<cmt>Sla linksaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla linksaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:33:08Z</time>
+<cmt>Sla rechtsaf naar Av. des Champs-Élysées</cmt>
+<desc>Sla rechtsaf naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86891" lon="2.31036">
+<ele>42</ele>
+<name>Neem op de</name>
+<time>2018-06-28T03:35:40Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87308" lon="2.29727">
+<ele>65</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T03:38:56Z</time>
+<cmt>Ga rechtdoor om op Av. des Champs-Élysées te blijven</cmt>
+<desc>Ga rechtdoor om op Av. des Champs-Élysées te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87352" lon="2.29583">
+<ele>60</ele>
+<name>Ga de roto</name>
+<time>2018-06-28T03:39:17Z</time>
+<cmt>Ga de rotonde op</cmt>
+<desc>Ga de rotonde op</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87397" lon="2.29421">
+<ele>60</ele>
+<name>Sla op de </name>
+<time>2018-06-28T03:39:54Z</time>
+<cmt>Sla op de rotonde af naar Av. des Champs-Élysées</cmt>
+<desc>Sla op de rotonde af naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87334" lon="2.29643">
+<ele>62</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:40:39Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</cmt>
+<desc>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86906" lon="2.30993">
+<ele>43</ele>
+<name>Neem op de</name>
+<time>2018-06-28T03:43:57Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:46:39Z</time>
+<cmt>Sla rechtsaf naar Place de la Concorde</cmt>
+<desc>Sla rechtsaf naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86516" lon="2.32043">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:46:49Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Place de la Concorde</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86473" lon="2.32058">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:47:00Z</time>
+<cmt>Sla rechtsaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla rechtsaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86409" lon="2.3201">
+<ele>30</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:47:14Z</time>
+<cmt>Sla linksaf richting Quai des Tuileries</cmt>
+<desc>Sla linksaf richting Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86365" lon="2.32145">
+<ele>31</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T03:47:34Z</time>
+<cmt>Weg vervolgen naar Quai des Tuileries</cmt>
+<desc>Weg vervolgen naar Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86143" lon="2.32834">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:49:15Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</cmt>
+<desc>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8609" lon="2.33008">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:49:40Z</time>
+<cmt>Sla linksaf naar Avenue du Général Lemonnier</cmt>
+<desc>Sla linksaf naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86376" lon="2.33205">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:50:44Z</time>
+<cmt>Sla linksaf naar Rue de Rivoli</cmt>
+<desc>Sla linksaf naar Rue de Rivoli</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86413" lon="2.3309">
+<ele>45</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:51:00Z</time>
+<cmt>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</cmt>
+<desc>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86638" lon="2.32342">
+<ele>40</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T03:52:49Z</time>
+<cmt>Weg vervolgen naar Place de la Concorde</cmt>
+<desc>Weg vervolgen naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86666" lon="2.322">
+<ele>41</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:53:09Z</time>
+<cmt>Sla linksaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla linksaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:53:39Z</time>
+<cmt>Sla rechtsaf naar Av. des Champs-Élysées</cmt>
+<desc>Sla rechtsaf naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86891" lon="2.31036">
+<ele>42</ele>
+<name>Neem op de</name>
+<time>2018-06-28T03:56:12Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87308" lon="2.29727">
+<ele>65</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T03:59:27Z</time>
+<cmt>Ga rechtdoor om op Av. des Champs-Élysées te blijven</cmt>
+<desc>Ga rechtdoor om op Av. des Champs-Élysées te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87352" lon="2.29583">
+<ele>60</ele>
+<name>Ga de roto</name>
+<time>2018-06-28T03:59:48Z</time>
+<cmt>Ga de rotonde op</cmt>
+<desc>Ga de rotonde op</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87397" lon="2.29421">
+<ele>60</ele>
+<name>Sla op de </name>
+<time>2018-06-28T04:00:26Z</time>
+<cmt>Sla op de rotonde af naar Av. des Champs-Élysées</cmt>
+<desc>Sla op de rotonde af naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87334" lon="2.29643">
+<ele>62</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:01:11Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</cmt>
+<desc>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86906" lon="2.30993">
+<ele>43</ele>
+<name>Neem op de</name>
+<time>2018-06-28T04:04:28Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:07:11Z</time>
+<cmt>Sla rechtsaf naar Place de la Concorde</cmt>
+<desc>Sla rechtsaf naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86516" lon="2.32043">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:07:21Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Place de la Concorde</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86473" lon="2.32058">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:07:31Z</time>
+<cmt>Sla rechtsaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla rechtsaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86409" lon="2.3201">
+<ele>30</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:07:45Z</time>
+<cmt>Sla linksaf richting Quai des Tuileries</cmt>
+<desc>Sla linksaf richting Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86365" lon="2.32145">
+<ele>31</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T04:08:05Z</time>
+<cmt>Weg vervolgen naar Quai des Tuileries</cmt>
+<desc>Weg vervolgen naar Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86143" lon="2.32834">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:09:47Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</cmt>
+<desc>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8609" lon="2.33008">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:10:12Z</time>
+<cmt>Sla linksaf naar Avenue du Général Lemonnier</cmt>
+<desc>Sla linksaf naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86376" lon="2.33205">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:11:15Z</time>
+<cmt>Sla linksaf naar Rue de Rivoli</cmt>
+<desc>Sla linksaf naar Rue de Rivoli</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86413" lon="2.3309">
+<ele>45</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:11:32Z</time>
+<cmt>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</cmt>
+<desc>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86638" lon="2.32342">
+<ele>40</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T04:13:21Z</time>
+<cmt>Weg vervolgen naar Place de la Concorde</cmt>
+<desc>Weg vervolgen naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86666" lon="2.322">
+<ele>41</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:13:41Z</time>
+<cmt>Sla linksaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla linksaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:14:11Z</time>
+<cmt>Sla rechtsaf naar Av. des Champs-Élysées</cmt>
+<desc>Sla rechtsaf naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86891" lon="2.31036">
+<ele>42</ele>
+<name>Neem op de</name>
+<time>2018-06-28T04:16:43Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87308" lon="2.29727">
+<ele>65</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T04:19:59Z</time>
+<cmt>Ga rechtdoor om op Av. des Champs-Élysées te blijven</cmt>
+<desc>Ga rechtdoor om op Av. des Champs-Élysées te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87352" lon="2.29583">
+<ele>60</ele>
+<name>Ga de roto</name>
+<time>2018-06-28T04:20:20Z</time>
+<cmt>Ga de rotonde op</cmt>
+<desc>Ga de rotonde op</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87397" lon="2.29421">
+<ele>60</ele>
+<name>Sla op de </name>
+<time>2018-06-28T04:20:57Z</time>
+<cmt>Sla op de rotonde af naar Av. des Champs-Élysées</cmt>
+<desc>Sla op de rotonde af naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87334" lon="2.29643">
+<ele>62</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:21:42Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</cmt>
+<desc>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86906" lon="2.30993">
+<ele>43</ele>
+<name>Neem op de</name>
+<time>2018-06-28T04:25:00Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:27:42Z</time>
+<cmt>Sla rechtsaf naar Place de la Concorde</cmt>
+<desc>Sla rechtsaf naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86516" lon="2.32043">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:27:52Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Place de la Concorde</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86473" lon="2.32058">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:28:03Z</time>
+<cmt>Sla rechtsaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla rechtsaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86409" lon="2.3201">
+<ele>30</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:28:17Z</time>
+<cmt>Sla linksaf richting Quai des Tuileries</cmt>
+<desc>Sla linksaf richting Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86365" lon="2.32145">
+<ele>31</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T04:28:37Z</time>
+<cmt>Weg vervolgen naar Quai des Tuileries</cmt>
+<desc>Weg vervolgen naar Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86143" lon="2.32834">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:30:18Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</cmt>
+<desc>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8609" lon="2.33008">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:30:43Z</time>
+<cmt>Sla linksaf naar Avenue du Général Lemonnier</cmt>
+<desc>Sla linksaf naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86376" lon="2.33205">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:31:47Z</time>
+<cmt>Sla linksaf naar Rue de Rivoli</cmt>
+<desc>Sla linksaf naar Rue de Rivoli</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86413" lon="2.3309">
+<ele>45</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:32:03Z</time>
+<cmt>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</cmt>
+<desc>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86638" lon="2.32342">
+<ele>40</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T04:33:52Z</time>
+<cmt>Weg vervolgen naar Place de la Concorde</cmt>
+<desc>Weg vervolgen naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86666" lon="2.322">
+<ele>41</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:34:12Z</time>
+<cmt>Sla linksaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla linksaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:34:42Z</time>
+<cmt>Sla rechtsaf naar Av. des Champs-Élysées</cmt>
+<desc>Sla rechtsaf naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86891" lon="2.31036">
+<ele>42</ele>
+<name>Neem op de</name>
+<time>2018-06-28T04:37:14Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87308" lon="2.29727">
+<ele>65</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T04:40:30Z</time>
+<cmt>Ga rechtdoor om op Av. des Champs-Élysées te blijven</cmt>
+<desc>Ga rechtdoor om op Av. des Champs-Élysées te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87352" lon="2.29583">
+<ele>60</ele>
+<name>Ga de roto</name>
+<time>2018-06-28T04:40:51Z</time>
+<cmt>Ga de rotonde op</cmt>
+<desc>Ga de rotonde op</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87397" lon="2.29421">
+<ele>60</ele>
+<name>Sla op de </name>
+<time>2018-06-28T04:41:28Z</time>
+<cmt>Sla op de rotonde af naar Av. des Champs-Élysées</cmt>
+<desc>Sla op de rotonde af naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87334" lon="2.29643">
+<ele>62</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:42:13Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</cmt>
+<desc>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86906" lon="2.30993">
+<ele>43</ele>
+<name>Neem op de</name>
+<time>2018-06-28T04:45:31Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:48:14Z</time>
+<cmt>Sla rechtsaf naar Place de la Concorde</cmt>
+<desc>Sla rechtsaf naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86516" lon="2.32043">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:48:24Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Place de la Concorde</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86473" lon="2.32058">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:48:34Z</time>
+<cmt>Sla rechtsaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla rechtsaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86409" lon="2.3201">
+<ele>30</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:48:48Z</time>
+<cmt>Sla linksaf richting Quai des Tuileries</cmt>
+<desc>Sla linksaf richting Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86365" lon="2.32145">
+<ele>31</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T04:49:08Z</time>
+<cmt>Weg vervolgen naar Quai des Tuileries</cmt>
+<desc>Weg vervolgen naar Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86143" lon="2.32834">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:50:49Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</cmt>
+<desc>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8609" lon="2.33008">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:51:15Z</time>
+<cmt>Sla linksaf naar Avenue du Général Lemonnier</cmt>
+<desc>Sla linksaf naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86376" lon="2.33205">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:52:18Z</time>
+<cmt>Sla linksaf naar Rue de Rivoli</cmt>
+<desc>Sla linksaf naar Rue de Rivoli</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86413" lon="2.3309">
+<ele>45</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:52:35Z</time>
+<cmt>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</cmt>
+<desc>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86638" lon="2.32342">
+<ele>40</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T04:54:24Z</time>
+<cmt>Weg vervolgen naar Place de la Concorde</cmt>
+<desc>Weg vervolgen naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86666" lon="2.322">
+<ele>41</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:54:44Z</time>
+<cmt>Sla linksaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla linksaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:55:14Z</time>
+<cmt>Sla rechtsaf naar Av. des Champs-Élysées</cmt>
+<desc>Sla rechtsaf naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86891" lon="2.31036">
+<ele>42</ele>
+<name>Neem op de</name>
+<time>2018-06-28T04:57:46Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87308" lon="2.29727">
+<ele>65</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T05:01:02Z</time>
+<cmt>Ga rechtdoor om op Av. des Champs-Élysées te blijven</cmt>
+<desc>Ga rechtdoor om op Av. des Champs-Élysées te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87352" lon="2.29583">
+<ele>60</ele>
+<name>Ga de roto</name>
+<time>2018-06-28T05:01:23Z</time>
+<cmt>Ga de rotonde op</cmt>
+<desc>Ga de rotonde op</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87397" lon="2.29421">
+<ele>60</ele>
+<name>Sla op de </name>
+<time>2018-06-28T05:02:00Z</time>
+<cmt>Sla op de rotonde af naar Av. des Champs-Élysées</cmt>
+<desc>Sla op de rotonde af naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87334" lon="2.29643">
+<ele>62</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:02:45Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</cmt>
+<desc>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue de Tilsitt</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86906" lon="2.30993">
+<ele>43</ele>
+<name>Neem op de</name>
+<time>2018-06-28T05:06:03Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:08:45Z</time>
+<cmt>Sla rechtsaf naar Place de la Concorde</cmt>
+<desc>Sla rechtsaf naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86516" lon="2.32043">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:08:55Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Place de la Concorde</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86473" lon="2.32058">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:09:05Z</time>
+<cmt>Sla rechtsaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla rechtsaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86409" lon="2.3201">
+<ele>30</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:09:20Z</time>
+<cmt>Sla linksaf richting Quai des Tuileries</cmt>
+<desc>Sla linksaf richting Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86365" lon="2.32145">
+<ele>31</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T05:09:40Z</time>
+<cmt>Weg vervolgen naar Quai des Tuileries</cmt>
+<desc>Weg vervolgen naar Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86143" lon="2.32834">
+<ele>33</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:11:21Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</cmt>
+<desc>Vertrek in zuidoostelijke richting op Quai Aimé Cesaire/Quai des Tuileries naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8609" lon="2.33008">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:11:46Z</time>
+<cmt>Sla linksaf naar Avenue du Général Lemonnier</cmt>
+<desc>Sla linksaf naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86376" lon="2.33205">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:12:50Z</time>
+<cmt>Sla linksaf naar Rue de Rivoli</cmt>
+<desc>Sla linksaf naar Rue de Rivoli</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86413" lon="2.3309">
+<ele>45</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:13:06Z</time>
+<cmt>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</cmt>
+<desc>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue du 29 Juillet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86638" lon="2.32342">
+<ele>40</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T05:14:55Z</time>
+<cmt>Weg vervolgen naar Place de la Concorde</cmt>
+<desc>Weg vervolgen naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86666" lon="2.322">
+<ele>41</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:15:15Z</time>
+<cmt>Sla linksaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla linksaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:15:45Z</time>
+<cmt>Sla rechtsaf naar Av. des Champs-Élysées</cmt>
+<desc>Sla rechtsaf naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86891" lon="2.31036">
+<ele>42</ele>
+<name>Neem op de</name>
+<time>2018-06-28T05:18:17Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87308" lon="2.29727">
+<ele>65</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T05:21:33Z</time>
+<cmt>Ga rechtdoor om op Av. des Champs-Élysées te blijven</cmt>
+<desc>Ga rechtdoor om op Av. des Champs-Élysées te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87352" lon="2.29583">
+<ele>60</ele>
+<name>Ga de roto</name>
+<time>2018-06-28T05:21:54Z</time>
+<cmt>Ga de rotonde op</cmt>
+<desc>Ga de rotonde op</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87413" lon="2.29436">
+<ele>60</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:22:28Z</time>
+<cmt>Vertrek in zuidwestelijke richting naar Avenue de la Grande Armée</cmt>
+<desc>Vertrek in zuidwestelijke richting naar Avenue de la Grande Armée</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87352" lon="2.29583">
+<ele>60</ele>
+<name>Verlaat de</name>
+<time>2018-06-28T05:23:08Z</time>
+<cmt>Verlaat de rotonde naar Av. des Champs-Élysées</cmt>
+<desc>Verlaat de rotonde naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.87268" lon="2.29851">
+<ele>66</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:23:47Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue Balzac</cmt>
+<desc>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rue Balzac</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86973" lon="2.30782">
+<ele>46</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:26:03Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rond-Point des Champs-Élysées Marcel-Dassault</cmt>
+<desc>Vertrek in zuidoostelijke richting op Av. des Champs-Élysées naar Rond-Point des Champs-Élysées Marcel-Dassault</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86906" lon="2.30993">
+<ele>43</ele>
+<name>Neem op de</name>
+<time>2018-06-28T05:26:34Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:29:17Z</time>
+<cmt>Sla rechtsaf naar Place de la Concorde</cmt>
+<desc>Sla rechtsaf naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86473" lon="2.32058">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:29:37Z</time>
+<cmt>Sla rechtsaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla rechtsaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86457" lon="2.32046">
+<ele>32</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:29:41Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Place de la Concorde</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86409" lon="2.3201">
+<ele>30</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:29:51Z</time>
+<cmt>Sla linksaf richting Quai des Tuileries</cmt>
+<desc>Sla linksaf richting Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86365" lon="2.32145">
+<ele>31</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T05:30:11Z</time>
+<cmt>Weg vervolgen naar Quai des Tuileries</cmt>
+<desc>Weg vervolgen naar Quai des Tuileries</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8609" lon="2.33008">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:32:18Z</time>
+<cmt>Sla linksaf naar Avenue du Général Lemonnier</cmt>
+<desc>Sla linksaf naar Avenue du Général Lemonnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86192" lon="2.33076">
+<ele>35</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:32:41Z</time>
+<cmt>Vertrek in noordoostelijke richting op Avenue du Général Lemonnier naar Rue de Rivoli</cmt>
+<desc>Vertrek in noordoostelijke richting op Avenue du Général Lemonnier naar Rue de Rivoli</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86376" lon="2.33205">
+<ele>43</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:33:21Z</time>
+<cmt>Sla linksaf naar Rue de Rivoli</cmt>
+<desc>Sla linksaf naar Rue de Rivoli</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86562" lon="2.32631">
+<ele>44</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:34:45Z</time>
+<cmt>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue Rouget de Lisle</cmt>
+<desc>Vertrek in noordwestelijke richting op Rue de Rivoli naar Rue Rouget de Lisle</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86638" lon="2.32342">
+<ele>40</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T05:35:27Z</time>
+<cmt>Weg vervolgen naar Place de la Concorde</cmt>
+<desc>Weg vervolgen naar Place de la Concorde</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86666" lon="2.322">
+<ele>41</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:35:47Z</time>
+<cmt>Sla linksaf om op Place de la Concorde te blijven</cmt>
+<desc>Sla linksaf om op Place de la Concorde te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.8656" lon="2.32076">
+<ele>33</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:36:17Z</time>
+<cmt>Sla rechtsaf naar Av. des Champs-Élysées</cmt>
+<desc>Sla rechtsaf naar Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86641" lon="2.31822">
+<ele>37</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:36:54Z</time>
+<cmt>Vertrek in noordwestelijke richting op Av. des Champs-Élysées naar Avenue Dutuit</cmt>
+<desc>Vertrek in noordwestelijke richting op Av. des Champs-Élysées naar Avenue Dutuit</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86814" lon="2.31274">
+<ele>34</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:38:14Z</time>
+<cmt>Vertrek in noordwestelijke richting op Av. des Champs-Élysées naar Avenue de Selves</cmt>
+<desc>Vertrek in noordwestelijke richting op Av. des Champs-Élysées naar Avenue de Selves</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="48.86891" lon="2.31036">
+<ele>42</ele>
+<name>Neem op de</name>
+<time>2018-06-28T05:38:49Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op Av. des Champs-Élysées</desc>
+<sym>undefined</sym>
+</rtept>
+</rte>
+</gpx>

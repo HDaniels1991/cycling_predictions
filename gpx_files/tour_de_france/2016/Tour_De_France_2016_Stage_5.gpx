@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Tour De France 2016 Stage 5</name>
+<rtept lat="45.82711" lon="1.26137">
+<ele>268</ele>
+<name>Start near</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Start near 52 Avenue Georges Dumas, 87000 Limoges, Frankrijk</cmt>
+<desc>Start near 52 Avenue Georges Dumas, 87000 Limoges, Frankrijk</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.82711" lon="1.26137">
+<ele>268</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Vertrek in oostelijke richting naar Avenue Georges Dumas/Boulevard Gambetta</cmt>
+<desc>Vertrek in oostelijke richting naar Avenue Georges Dumas/Boulevard Gambetta</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.82711" lon="1.26154">
+<ele>268</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T00:00:02Z</time>
+<cmt>Weg vervolgen naar Avenue Georges Dumas</cmt>
+<desc>Weg vervolgen naar Avenue Georges Dumas</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.82607" lon="1.26792">
+<ele>233</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T00:01:34Z</time>
+<cmt>Weg vervolgen naar Pont Neuf/de D941</cmt>
+<desc>Weg vervolgen naar Pont Neuf/de D941</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.8303" lon="1.2989">
+<ele>296</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:10:03Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Avenue Léon Blum/de D941</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Avenue Léon Blum/de D941</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.84086" lon="1.32783">
+<ele>313</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:17:51Z</time>
+<cmt>Vertrek in noordoostelijke richting op Avenue Adrien Pressemane/de D941 naar Allée de Courbiat</cmt>
+<desc>Vertrek in noordoostelijke richting op Avenue Adrien Pressemane/de D941 naar Allée de Courbiat</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.83838" lon="1.46783">
+<ele>288</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:54:09Z</time>
+<cmt>Vertrek in zuidelijke richting op Villeneuve/de D941 naar de D65</cmt>
+<desc>Vertrek in zuidelijke richting op Villeneuve/de D941 naar de D65</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.83477" lon="1.4885">
+<ele>333</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:01:41Z</time>
+<cmt>Vertrek in noordoostelijke richting op Avenue du Général de Gaulle/de D941 naar Rue de Beaufort/de D39</cmt>
+<desc>Vertrek in noordoostelijke richting op Avenue du Général de Gaulle/de D941 naar Rue de Beaufort/de D39</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.83671" lon="1.49136">
+<ele>355</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:02:44Z</time>
+<cmt>Sla rechtsaf naar Rue de Strasbourg/de D13</cmt>
+<desc>Sla rechtsaf naar Rue de Strasbourg/de D13</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.8337" lon="1.49527">
+<ele>353</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:04:10Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Av. Raymond Poulidor/de D13 naar Le Tronc</cmt>
+<desc>Vertrek in zuidoostelijke richting op Av. Raymond Poulidor/de D13 naar Le Tronc</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.82362" lon="1.53216">
+<ele>409</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:13:44Z</time>
+<cmt>Sla rechtsaf naar Puy les Vignes/de D14</cmt>
+<desc>Sla rechtsaf naar Puy les Vignes/de D14</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.82173" lon="1.54275">
+<ele>417</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:16:19Z</time>
+<cmt>Vertrek in zuidoostelijke richting op   Chassagnat/de D14</cmt>
+<desc>Vertrek in zuidoostelijke richting op   Chassagnat/de D14</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.79272" lon="1.61124">
+<ele>368</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:41:06Z</time>
+<cmt>Vertrek in oostelijke richting op Les Rivaux du Mazeau/de D14 naar Fantouillet</cmt>
+<desc>Vertrek in oostelijke richting op Les Rivaux du Mazeau/de D14 naar Fantouillet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.7777" lon="1.69156">
+<ele>479</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:04:45Z</time>
+<cmt>Sla rechtsaf</cmt>
+<desc>Sla rechtsaf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.77757" lon="1.69112">
+<ele>472</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:04:52Z</time>
+<cmt>Vertrek in noordoostelijke richting naar Lachaud/de D14</cmt>
+<desc>Vertrek in noordoostelijke richting naar Lachaud/de D14</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.7777" lon="1.69156">
+<ele>479</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:04:59Z</time>
+<cmt>Sla rechtsaf naar Lachaud/de D14</cmt>
+<desc>Sla rechtsaf naar Lachaud/de D14</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.74604" lon="1.74058">
+<ele>437</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:25:04Z</time>
+<cmt>Sla rechtsaf naar Rue de l'Eycoussinerie/de D940</cmt>
+<desc>Sla rechtsaf naar Rue de l'Eycoussinerie/de D940</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.73852" lon="1.73926">
+<ele>419</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T02:28:26Z</time>
+<cmt>Sla linksaf naar Avenue de la Paix/de D940</cmt>
+<desc>Sla linksaf naar Avenue de la Paix/de D940</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.72693" lon="1.75474">
+<ele>484</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:34:20Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Le Petit Bois Châle/de D940 naar Charnaillat</cmt>
+<desc>Vertrek in zuidoostelijke richting op Le Petit Bois Châle/de D940 naar Charnaillat</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.65293" lon="1.8222">
+<ele>634</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:07:41Z</time>
+<cmt>Vertrek in zuidelijke richting op de D940 naar L'Omelette</cmt>
+<desc>Vertrek in zuidelijke richting op de D940 naar L'Omelette</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.62503" lon="1.85214">
+<ele>687</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T03:22:02Z</time>
+<cmt>Weg vervolgen naar de D979</cmt>
+<desc>Weg vervolgen naar de D979</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.62273" lon="1.85846">
+<ele>696</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:23:54Z</time>
+<cmt>Vertrek in zuidelijke richting op La Gane/de D979 naar La Croix</cmt>
+<desc>Vertrek in zuidelijke richting op La Gane/de D979 naar La Croix</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.5787" lon="2.01544">
+<ele>854</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:07:56Z</time>
+<cmt>Vertrek in zuidoostelijke richting op de D979 naar Peuch de Ramond</cmt>
+<desc>Vertrek in zuidoostelijke richting op de D979 naar Peuch de Ramond</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.581" lon="2.12817">
+<ele>843</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:37:11Z</time>
+<cmt>Sla rechtsaf naar de D36</cmt>
+<desc>Sla rechtsaf naar de D36</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.57973" lon="2.13187">
+<ele>849</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:38:10Z</time>
+<cmt>Vertrek in zuidoostelijke richting op   de D36</cmt>
+<desc>Vertrek in zuidoostelijke richting op   de D36</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.54536" lon="2.14588">
+<ele>705</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T04:51:14Z</time>
+<cmt>Ga rechtdoor op Rue de Panazol/de D36</cmt>
+<desc>Ga rechtdoor op Rue de Panazol/de D36</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.54368" lon="2.14565">
+<ele>707</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:51:48Z</time>
+<cmt>Sla linksaf naar Chemin du Champ Peyrat</cmt>
+<desc>Sla linksaf naar Chemin du Champ Peyrat</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.54346" lon="2.14956">
+<ele>691</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T04:52:45Z</time>
+<cmt>Weg vervolgen naar Moulin de Croiziat</cmt>
+<desc>Weg vervolgen naar Moulin de Croiziat</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.54123" lon="2.15128">
+<ele>681</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:53:38Z</time>
+<cmt>Sla linksaf naar Moulin de Croiziat/de D30</cmt>
+<desc>Sla linksaf naar Moulin de Croiziat/de D30</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.54056" lon="2.15369">
+<ele>683</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T04:54:37Z</time>
+<cmt>Sla rechtsaf naar Boulevard de la Garenne/de D30E1</cmt>
+<desc>Sla rechtsaf naar Boulevard de la Garenne/de D30E1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.53411" lon="2.15365">
+<ele>668</ele>
+<name>Ga bij de </name>
+<time>2018-06-28T04:56:50Z</time>
+<cmt>Ga bij de rotonde rechtdoor naar Avenue du Gaud/de D979</cmt>
+<desc>Ga bij de rotonde rechtdoor naar Avenue du Gaud/de D979</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.51456" lon="2.1806">
+<ele>709</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:06:50Z</time>
+<cmt>Vertrek in zuidoostelijke richting op de D979 naar Le Negraud</cmt>
+<desc>Vertrek in zuidoostelijke richting op de D979 naar Le Negraud</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.50337" lon="2.22624">
+<ele>657</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:18:20Z</time>
+<cmt>Sla rechtsaf naar Rue du Pont Grange</cmt>
+<desc>Sla rechtsaf naar Rue du Pont Grange</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.50009" lon="2.22655">
+<ele>645</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:19:26Z</time>
+<cmt>Sla rechtsaf naar Le Pont Grange/de D1089</cmt>
+<desc>Sla rechtsaf naar Le Pont Grange/de D1089</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.4995" lon="2.22536">
+<ele>644</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:19:47Z</time>
+<cmt>Sla linksaf naar de D171</cmt>
+<desc>Sla linksaf naar de D171</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.48325" lon="2.22381">
+<ele>695</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:26:16Z</time>
+<cmt>Vertrek in zuidelijke richting op de D171 naar Cussac</cmt>
+<desc>Vertrek in zuidelijke richting op de D171 naar Cussac</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.3855" lon="2.27096">
+<ele>636</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:06:24Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Place du Champ de Foire/de D982</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Place du Champ de Foire/de D982</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.37321" lon="2.27168">
+<ele>602</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T06:11:25Z</time>
+<cmt>Vertrek in zuidelijke richting op Le Ponteil/de D982 naar Sernaud</cmt>
+<desc>Vertrek in zuidelijke richting op Le Ponteil/de D982 naar Sernaud</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.2876" lon="2.27988">
+<ele>348</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T06:51:19Z</time>
+<cmt>Weg vervolgen naar de D682</cmt>
+<desc>Weg vervolgen naar de D682</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.24327" lon="2.28883">
+<ele>604</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:10:43Z</time>
+<cmt>Sla linksaf naar de D678</cmt>
+<desc>Sla linksaf naar de D678</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.23808" lon="2.3005">
+<ele>653</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:14:16Z</time>
+<cmt>Vertrek in zuidoostelijke richting op   de D678</cmt>
+<desc>Vertrek in zuidoostelijke richting op   de D678</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.22176" lon="2.32574">
+<ele>692</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T07:23:21Z</time>
+<cmt>Flauwe bocht naar links naar   de D705</cmt>
+<desc>Flauwe bocht naar links naar   de D705</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.22228" lon="2.32657">
+<ele>695</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T07:23:37Z</time>
+<cmt>Flauwe bocht naar rechts naar   Boulevard Charles de Gaulle/de D105</cmt>
+<desc>Flauwe bocht naar rechts naar   Boulevard Charles de Gaulle/de D105</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.22175" lon="2.33908">
+<ele>720</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T07:26:41Z</time>
+<cmt>Sla rechtsaf naar Avenue Charles Perie/de D922</cmt>
+<desc>Sla rechtsaf naar Avenue Charles Perie/de D922</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.21902" lon="2.33526">
+<ele>712</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:27:58Z</time>
+<cmt>Sla linksaf naar Rue Fernand Talandier/de D922</cmt>
+<desc>Sla linksaf naar Rue Fernand Talandier/de D922</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.21244" lon="2.34987">
+<ele>738</ele>
+<name>Neem op de</name>
+<time>2018-06-28T07:32:10Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar de D122</cmt>
+<desc>Neem op de rotonde de 3e afslag naar de D122</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.21506" lon="2.35805">
+<ele>743</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:34:46Z</time>
+<cmt>Vertrek in oostelijke richting op de D122 naar Les Fournas</cmt>
+<desc>Vertrek in oostelijke richting op de D122 naar Les Fournas</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.2034" lon="2.43943">
+<ele>820</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T07:54:46Z</time>
+<cmt>Flauwe bocht naar rechts naar   Place du Monument aux Morts/de D122</cmt>
+<desc>Flauwe bocht naar rechts naar   Place du Monument aux Morts/de D122</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.20319" lon="2.43975">
+<ele>821</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T07:54:52Z</time>
+<cmt>Sla rechtsaf naar de D22</cmt>
+<desc>Sla rechtsaf naar de D22</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.19859" lon="2.44103">
+<ele>798</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:56:33Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Les Pentes du Pont d'Auze/de D22 naar Le Pont d'Auze</cmt>
+<desc>Vertrek in zuidoostelijke richting op Les Pentes du Pont d'Auze/de D22 naar Le Pont d'Auze</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.14026" lon="2.49328">
+<ele>932</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T08:25:16Z</time>
+<cmt>Sla linksaf naar de D680</cmt>
+<desc>Sla linksaf naar de D680</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.13907" lon="2.49626">
+<ele>937</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T08:26:10Z</time>
+<cmt>Sla linksaf om op de D680 te blijven</cmt>
+<desc>Sla linksaf om op de D680 te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.14702" lon="2.51561">
+<ele>1029</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:33:31Z</time>
+<cmt>Vertrek in noordoostelijke richting op   de D680</cmt>
+<desc>Vertrek in noordoostelijke richting op   de D680</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.11414" lon="2.67174">
+<ele>1578</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T09:26:58Z</time>
+<cmt>Sla rechtsaf naar de D17</cmt>
+<desc>Sla rechtsaf naar de D17</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.10383" lon="2.66629">
+<ele>1517</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:33:05Z</time>
+<cmt>Vertrek in oostelijke richting op   de D17</cmt>
+<desc>Vertrek in oostelijke richting op   de D17</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.06745" lon="2.65499">
+<ele>934</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T10:02:49Z</time>
+<cmt>Sla linksaf naar de D317</cmt>
+<desc>Sla linksaf naar de D317</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.06189" lon="2.67305">
+<ele>1267</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:14:44Z</time>
+<cmt>Vertrek in zuidoostelijke richting op   de D317</cmt>
+<desc>Vertrek in zuidoostelijke richting op   de D317</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.0553" lon="2.71164">
+<ele>1003</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T10:33:34Z</time>
+<cmt>Sla linksaf naar de N122</cmt>
+<desc>Sla linksaf naar de N122</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.07617" lon="2.72523">
+<ele>1101</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:41:48Z</time>
+<cmt>Vertrek in noordoostelijke richting op de N122 naar de D67</cmt>
+<desc>Vertrek in noordoostelijke richting op de N122 naar de D67</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.07693" lon="2.72796">
+<ele>1119</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T10:42:29Z</time>
+<cmt>Sla linksaf naar de D67</cmt>
+<desc>Sla linksaf naar de D67</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08139" lon="2.72643">
+<ele>1206</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:46:59Z</time>
+<cmt>Vertrek in noordoostelijke richting op   de D67</cmt>
+<desc>Vertrek in noordoostelijke richting op   de D67</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08122" lon="2.73516">
+<ele>1270</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:50:19Z</time>
+<cmt>Vertrek in zuidoostelijke richting op   de D67</cmt>
+<desc>Vertrek in zuidoostelijke richting op   de D67</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08109" lon="2.73544">
+<ele>1272</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T10:50:23Z</time>
+<cmt>Sla linksaf</cmt>
+<desc>Sla linksaf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08202" lon="2.73437">
+<ele>1283</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:50:49Z</time>
+<cmt>Vertrek in noordwestelijke richting</cmt>
+<desc>Vertrek in noordwestelijke richting</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08456" lon="2.73216">
+<ele>1294</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T10:52:09Z</time>
+<cmt>Ga rechtdoor</cmt>
+<desc>Ga rechtdoor</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08495" lon="2.73246">
+<ele>1293</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T10:52:18Z</time>
+<cmt>Ga rechtdoor op Combe Nègre</cmt>
+<desc>Ga rechtdoor op Combe Nègre</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08537" lon="2.73404">
+<ele>1302</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:52:44Z</time>
+<cmt>Vertrek in oostelijke richting op Combe Nègre naar Puy de Massebœuf</cmt>
+<desc>Vertrek in oostelijke richting op Combe Nègre naar Puy de Massebœuf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08584" lon="2.73925">
+<ele>1271</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:54:15Z</time>
+<cmt>Vertrek in westelijke richting</cmt>
+<desc>Vertrek in westelijke richting</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08624" lon="2.73749">
+<ele>1261</ele>
+<name>Scherpe bo</name>
+<time>2018-06-28T10:54:41Z</time>
+<cmt>Scherpe bocht naar rechts</cmt>
+<desc>Scherpe bocht naar rechts</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08634" lon="2.73776">
+<ele>1258</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T10:54:46Z</time>
+<cmt>Flauwe bocht naar rechts</cmt>
+<desc>Flauwe bocht naar rechts</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08643" lon="2.74104">
+<ele>1242</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:55:32Z</time>
+<cmt>Vertrek in oostelijke richting</cmt>
+<desc>Vertrek in oostelijke richting</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08775" lon="2.73968">
+<ele>1208</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:56:39Z</time>
+<cmt>Vertrek in noordwestelijke richting</cmt>
+<desc>Vertrek in noordwestelijke richting</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.0879" lon="2.73944">
+<ele>1207</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T10:56:44Z</time>
+<cmt>Flauwe bocht naar rechts richting Résidence Fontaine d'Alagnon</cmt>
+<desc>Flauwe bocht naar rechts richting Résidence Fontaine d'Alagnon</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08836" lon="2.73952">
+<ele>1201</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T10:56:55Z</time>
+<cmt>Flauwe bocht naar rechts naar   Résidence Fontaine d'Alagnon</cmt>
+<desc>Flauwe bocht naar rechts naar   Résidence Fontaine d'Alagnon</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08838" lon="2.74149">
+<ele>1205</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T10:57:23Z</time>
+<cmt>Weg vervolgen naar Résidence les Flocons</cmt>
+<desc>Weg vervolgen naar Résidence les Flocons</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08821" lon="2.74279">
+<ele>1204</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:57:41Z</time>
+<cmt>Vertrek in oostelijke richting naar Résidence les Portes du S</cmt>
+<desc>Vertrek in oostelijke richting naar Résidence les Portes du S</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.0877" lon="2.74433">
+<ele>1195</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T10:58:06Z</time>
+<cmt>Sla rechtsaf naar de D67</cmt>
+<desc>Sla rechtsaf naar de D67</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.0865" lon="2.74488">
+<ele>1211</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:58:43Z</time>
+<cmt>Vertrek in oostelijke richting op   de D67</cmt>
+<desc>Vertrek in oostelijke richting op   de D67</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.08473" lon="2.7482">
+<ele>1242</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T11:00:02Z</time>
+<cmt>Vertrek in zuidelijke richting op   de D67</cmt>
+<desc>Vertrek in zuidelijke richting op   de D67</desc>
+<sym>undefined</sym>
+</rtept>
+</rte>
+</gpx>

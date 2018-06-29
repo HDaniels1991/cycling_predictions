@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Tour De France 2016 Stage 10</name>
+<rtept lat="42.50703" lon="1.53697">
+<ele>1066</ele>
+<name>Start near</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Start near Ctra. de l'Obac, 11, AD500 Andorra la Vella, Andorra</cmt>
+<desc>Start near Ctra. de l'Obac, 11, AD500 Andorra la Vella, Andorra</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.50703" lon="1.53697">
+<ele>1066</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Vertrek in oostelijke richting op Ctra. de l'Obac/de CG-2 naar Carrer Ciutat de Sabadell</cmt>
+<desc>Vertrek in oostelijke richting op Ctra. de l'Obac/de CG-2 naar Carrer Ciutat de Sabadell</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.51095" lon="1.5486">
+<ele>1132</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T00:03:39Z</time>
+<cmt>Weg vervolgen naar Ctra. d'Engolasters/de CG-2</cmt>
+<desc>Weg vervolgen naar Ctra. d'Engolasters/de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.51219" lon="1.55055">
+<ele>1139</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:04:18Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Av. del Pont de la Tosca/de CG-2</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Av. del Pont de la Tosca/de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.51579" lon="1.55414">
+<ele>1155</ele>
+<name>Houd links</name>
+<time>2018-06-28T00:05:51Z</time>
+<cmt>Houd links aan en blijf op de CG-2</cmt>
+<desc>Houd links aan en blijf op de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.52923" lon="1.5715">
+<ele>1248</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:12:19Z</time>
+<cmt>Neem op de rotonde de 1ste afslag en rijd door op de CG-2</cmt>
+<desc>Neem op de rotonde de 1ste afslag en rijd door op de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53336" lon="1.58505">
+<ele>1313</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:16:17Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Av. de François Mitterrand/de CG-2</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Av. de François Mitterrand/de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.54009" lon="1.59192">
+<ele>1375</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:19:19Z</time>
+<cmt>Vertrek in noordelijke richting op   de CG-2</cmt>
+<desc>Vertrek in noordelijke richting op   de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.55083" lon="1.59103">
+<ele>1420</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:23:03Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op de CG-2</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.56444" lon="1.59297">
+<ele>1531</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:28:17Z</time>
+<cmt>Neem op de rotonde de 1ste afslag en rijd door op de CG-2</cmt>
+<desc>Neem op de rotonde de 1ste afslag en rijd door op de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.56726" lon="1.60122">
+<ele>1538</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:31:04Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Av. Sant Joan de Caselles/de CG-2</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Av. Sant Joan de Caselles/de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.55266" lon="1.69371">
+<ele>2026</ele>
+<name>Houd links</name>
+<time>2018-06-28T01:03:33Z</time>
+<cmt>Houd links aan en blijf op de CG-2</cmt>
+<desc>Houd links aan en blijf op de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.5517" lon="1.69521">
+<ele>2034</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:04:02Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op de CG-2</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.54975" lon="1.69836">
+<ele>2061</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:05:07Z</time>
+<cmt>Vertrek in zuidoostelijke richting op de CG-2 naar Ctra. de Grau Roig</cmt>
+<desc>Vertrek in zuidoostelijke richting op de CG-2 naar Ctra. de Grau Roig</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.54168" lon="1.71788">
+<ele>2394</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:19:55Z</time>
+<cmt>Sla rechtsaf</cmt>
+<desc>Sla rechtsaf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.54054" lon="1.71784">
+<ele>2397</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:20:19Z</time>
+<cmt>Vertrek in noordoostelijke richting naar de CG-2</cmt>
+<desc>Vertrek in noordoostelijke richting naar de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.54168" lon="1.71788">
+<ele>2394</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:20:42Z</time>
+<cmt>Sla rechtsaf naar de CG-2</cmt>
+<desc>Sla rechtsaf naar de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.54365" lon="1.73355">
+<ele>2094</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:36:11Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op de CG-2</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.54343" lon="1.73569">
+<ele>2090</ele>
+<name>De CG-2 dr</name>
+<time>2018-06-28T01:36:47Z</time>
+<cmt>De CG-2 draait iets naar links en wordt Las Bailletas/de N22</cmt>
+<desc>De CG-2 draait iets naar links en wordt Las Bailletas/de N22</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.54889" lon="1.73779">
+<ele>2050</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:38:44Z</time>
+<cmt>Neem op de rotonde de 1ste afslag op de N22 richting Toulouse/Foix/Perpignan/L'Hospitalet Porté - Puymorens</cmt>
+<desc>Neem op de rotonde de 1ste afslag op de N22 richting Toulouse/Foix/Perpignan/L'Hospitalet Porté - Puymorens</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.55401" lon="1.74129">
+<ele>2014</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:40:46Z</time>
+<cmt>Vertrek in noordoostelijke richting op de N22 naar de N22</cmt>
+<desc>Vertrek in noordoostelijke richting op de N22 naar de N22</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.56007" lon="1.75874">
+<ele>1927</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T01:45:48Z</time>
+<cmt>Weg vervolgen naar de N22</cmt>
+<desc>Weg vervolgen naar de N22</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.56454" lon="1.78209">
+<ele>1777</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T01:53:55Z</time>
+<cmt>Sla linksaf naar de N22/de N320</cmt>
+<desc>Sla linksaf naar de N22/de N320</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.57562" lon="1.79349">
+<ele>1617</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T02:04:05Z</time>
+<cmt>Sla linksaf naar de N320</cmt>
+<desc>Sla linksaf naar de N320</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.57966" lon="1.79415">
+<ele>1512</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T02:09:33Z</time>
+<cmt>Sla linksaf naar de N20</cmt>
+<desc>Sla linksaf naar de N20</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.60189" lon="1.812">
+<ele>1345</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:18:48Z</time>
+<cmt>Vertrek in noordelijke richting op de N20 naar Pont de Saillens</cmt>
+<desc>Vertrek in noordelijke richting op de N20 naar Pont de Saillens</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.72027" lon="1.83973">
+<ele>726</ele>
+<name>Neem op de</name>
+<time>2018-06-28T03:07:05Z</time>
+<cmt>Neem op de rotonde de 2e afslag op Place du Breilh/de N20 richting Foix/Toulouse/Tarascon</cmt>
+<desc>Neem op de rotonde de 2e afslag op Place du Breilh/de N20 richting Foix/Toulouse/Tarascon</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.75065" lon="1.77232">
+<ele>659</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:28:01Z</time>
+<cmt>Vertrek in noordelijke richting op Estelies/de N20 naar Les Esteilles</cmt>
+<desc>Vertrek in noordelijke richting op Estelies/de N20 naar Les Esteilles</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.76154" lon="1.76134">
+<ele>599</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:33:05Z</time>
+<cmt>Sla linksaf naar Rue Principale/de D2</cmt>
+<desc>Sla linksaf naar Rue Principale/de D2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.766" lon="1.74894">
+<ele>588</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T03:36:32Z</time>
+<cmt>Ga rechtdoor op Avenue de la Gare/de D2</cmt>
+<desc>Ga rechtdoor op Avenue de la Gare/de D2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.76579" lon="1.7484">
+<ele>592</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:36:42Z</time>
+<cmt>Sla rechtsaf naar de N20</cmt>
+<desc>Sla rechtsaf naar de N20</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.84516" lon="1.60108">
+<ele>479</ele>
+<name>Neem op de</name>
+<time>2018-06-28T04:25:24Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Avenue Paul Joucla/de D618</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Avenue Paul Joucla/de D618</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.8644" lon="1.60858">
+<ele>486</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:33:31Z</time>
+<cmt>Vertrek in oostelijke richting op Avenue des Platanes/de D618 naar Chemin du Vignie/de D320</cmt>
+<desc>Vertrek in oostelijke richting op Avenue des Platanes/de D618 naar Chemin du Vignie/de D320</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.91819" lon="1.64055">
+<ele>460</ele>
+<name>Neem op de</name>
+<time>2018-06-28T04:54:52Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Plano de Darré/de D117</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Plano de Darré/de D117</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.91657" lon="1.64719">
+<ele>461</ele>
+<name>Neem op de</name>
+<time>2018-06-28T04:56:35Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar Plaine de l'Aygo/de D117</cmt>
+<desc>Neem op de rotonde de 3e afslag naar Plaine de l'Aygo/de D117</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.9146" lon="1.67167">
+<ele>477</ele>
+<name>Neem op de</name>
+<time>2018-06-28T05:03:02Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op de D117</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op de D117</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.91433" lon="1.6778">
+<ele>484</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:04:34Z</time>
+<cmt>Vertrek in oostelijke richting op de D117 naar Le Village/de D209</cmt>
+<desc>Vertrek in oostelijke richting op de D117 naar Le Village/de D209</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.92417" lon="1.83708">
+<ele>559</ele>
+<name>Neem op de</name>
+<time>2018-06-28T05:50:11Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Avenue Léon Blum/de D117</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Avenue Léon Blum/de D117</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.93252" lon="1.84836">
+<ele>527</ele>
+<name>Neem op de</name>
+<time>2018-06-28T05:54:11Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar Avenue du Onze Novembre 1918/de D625</cmt>
+<desc>Neem op de rotonde de 3e afslag naar Avenue du Onze Novembre 1918/de D625</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.95169" lon="1.85989">
+<ele>487</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T06:01:24Z</time>
+<cmt>Vertrek in noordelijke richting op   Riberoles/de D625</cmt>
+<desc>Vertrek in noordelijke richting op   Riberoles/de D625</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.97675" lon="1.86826">
+<ele>438</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:10:10Z</time>
+<cmt>Neem op de rotonde de 1ste afslag en rijd door op de D625</cmt>
+<desc>Neem op de rotonde de 1ste afslag en rijd door op de D625</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.08422" lon="1.87641">
+<ele>309</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:48:41Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Avenue Charles de Gaulle/de D119</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Avenue Charles de Gaulle/de D119</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.08499" lon="1.87611">
+<ele>307</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T06:49:00Z</time>
+<cmt>Sla rechtsaf naar Cours du Jeu du Mail/de D119</cmt>
+<desc>Sla rechtsaf naar Cours du Jeu du Mail/de D119</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.10388" lon="1.9168">
+<ele>317</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:03:53Z</time>
+<cmt>Sla linksaf naar Maltrete/de D6A</cmt>
+<desc>Sla linksaf naar Maltrete/de D6A</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.11103" lon="1.91464">
+<ele>331</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:06:22Z</time>
+<cmt>Vertrek in noordelijke richting op   Maltrete/de D6A</cmt>
+<desc>Vertrek in noordelijke richting op   Maltrete/de D6A</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.13336" lon="1.91481">
+<ele>391</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T07:13:56Z</time>
+<cmt>Weg vervolgen naar de D6</cmt>
+<desc>Weg vervolgen naar de D6</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.27349" lon="1.9446">
+<ele>203</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:12:28Z</time>
+<cmt>Vertrek in noordelijke richting op Route de Castelnaudary/de D6 naar Route de l'Estrade/de D218</cmt>
+<desc>Vertrek in noordelijke richting op Route de Castelnaudary/de D6 naar Route de l'Estrade/de D218</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.27527" lon="1.94528">
+<ele>194</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T08:13:05Z</time>
+<cmt>Sla linksaf naar Route de Villeneuve/de D218</cmt>
+<desc>Sla linksaf naar Route de Villeneuve/de D218</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.28331" lon="1.93496">
+<ele>192</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:16:48Z</time>
+<cmt>Vertrek in noordwestelijke richting op Route de Fendeille/de D218 naar Chemin de l'Estrade</cmt>
+<desc>Vertrek in noordwestelijke richting op Route de Fendeille/de D218 naar Chemin de l'Estrade</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.29341" lon="1.92475">
+<ele>189</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T08:21:01Z</time>
+<cmt>Sla rechtsaf naar Route de Mazères/de D624</cmt>
+<desc>Sla rechtsaf naar Route de Mazères/de D624</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.30444" lon="1.93773">
+<ele>166</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:25:53Z</time>
+<cmt>Vertrek in noordoostelijke richting op Avenue du Dr René Laennec/de D624 naar Allée des Érables</cmt>
+<desc>Vertrek in noordoostelijke richting op Avenue du Dr René Laennec/de D624 naar Allée des Érables</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.31501" lon="1.95019">
+<ele>173</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:30:44Z</time>
+<cmt>Vertrek in noordoostelijke richting op Rue Arnaut-Vidal/de D624 naar Quai du Port</cmt>
+<desc>Vertrek in noordoostelijke richting op Rue Arnaut-Vidal/de D624 naar Quai du Port</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.31878" lon="1.95406">
+<ele>188</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T08:32:20Z</time>
+<cmt>Sla linksaf naar Rue du 11 Novembre/de D1113</cmt>
+<desc>Sla linksaf naar Rue du 11 Novembre/de D1113</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.32052" lon="1.95376">
+<ele>197</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T08:32:59Z</time>
+<cmt>Sla linksaf naar Avenue Frédéric Mistral/de D1113</cmt>
+<desc>Sla linksaf naar Avenue Frédéric Mistral/de D1113</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.32241" lon="1.94904">
+<ele>196</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T08:34:17Z</time>
+<cmt>Sla rechtsaf naar Avenue Maquis Montagne Noire/de D624</cmt>
+<desc>Sla rechtsaf naar Avenue Maquis Montagne Noire/de D624</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.32789" lon="1.95115">
+<ele>167</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:36:12Z</time>
+<cmt>Vertrek in noordelijke richting op Route de Revel/de D624 naar Grand Gervais</cmt>
+<desc>Vertrek in noordelijke richting op Route de Revel/de D624 naar Grand Gervais</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.44518" lon="1.95194">
+<ele>212</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T09:18:39Z</time>
+<cmt>Weg vervolgen naar Lemmarse/de D622</cmt>
+<desc>Weg vervolgen naar Lemmarse/de D622</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.4465" lon="1.95681">
+<ele>210</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:19:55Z</time>
+<cmt>Vertrek in oostelijke richting op Route de Castelnaudary/de D622 naar de D43M</cmt>
+<desc>Vertrek in oostelijke richting op Route de Castelnaudary/de D622 naar de D43M</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45145" lon="1.97945">
+<ele>216</ele>
+<name>Neem op de</name>
+<time>2018-06-28T09:25:39Z</time>
+<cmt>Neem op de rotonde de 1ste afslag en rijd door op Route de Castelnaudary/de D622</cmt>
+<desc>Neem op de rotonde de 1ste afslag en rijd door op Route de Castelnaudary/de D622</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45434" lon="1.99311">
+<ele>213</ele>
+<name>Neem op de</name>
+<time>2018-06-28T09:29:08Z</time>
+<cmt>Neem op de rotonde de 4e afslag naar Avenue de Castelnaudary/de D622</cmt>
+<desc>Neem op de rotonde de 4e afslag naar Avenue de Castelnaudary/de D622</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45597" lon="2.00036">
+<ele>213</ele>
+<name>Neem op de</name>
+<time>2018-06-28T09:31:02Z</time>
+<cmt>Neem op de rotonde de 1ste afslag en rijd door op Avenue de Castelnaudary/de D622</cmt>
+<desc>Neem op de rotonde de 1ste afslag en rijd door op Avenue de Castelnaudary/de D622</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45642" lon="2.00235">
+<ele>214</ele>
+<name>Neem op de</name>
+<time>2018-06-28T09:31:33Z</time>
+<cmt>Neem op de rotonde de 2e afslag op Avenue de Saint-Ferréol/de D629 richting Les Cammazes/Carcassonne</cmt>
+<desc>Neem op de rotonde de 2e afslag op Avenue de Saint-Ferréol/de D629 richting Les Cammazes/Carcassonne</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45026" lon="2.00581">
+<ele>233</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:33:50Z</time>
+<cmt>Vertrek in zuidelijke richting op Route de Saint-Ferréol/de D629 naar Chemin de la Monte</cmt>
+<desc>Vertrek in zuidelijke richting op Route de Saint-Ferréol/de D629 naar Chemin de la Monte</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.4393" lon="2.03496">
+<ele>373</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T09:42:29Z</time>
+<cmt>Sla linksaf naar Guillaume Fauré/de D151</cmt>
+<desc>Sla linksaf naar Guillaume Fauré/de D151</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.44478" lon="2.03834">
+<ele>298</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:46:46Z</time>
+<cmt>Vertrek in noordelijke richting op de D151 naar Lapouticario</cmt>
+<desc>Vertrek in noordelijke richting op de D151 naar Lapouticario</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.4511" lon="2.04646">
+<ele>247</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T09:50:25Z</time>
+<cmt>Sla linksaf naar Pont Crouzet/de D85</cmt>
+<desc>Sla linksaf naar Pont Crouzet/de D85</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45323" lon="2.0335">
+<ele>234</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:53:48Z</time>
+<cmt>Vertrek in westelijke richting op La Rigole/de D85 naar La Grave/Pré de Manahout</cmt>
+<desc>Vertrek in westelijke richting op La Rigole/de D85 naar La Grave/Pré de Manahout</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45421" lon="2.01756">
+<ele>230</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T09:57:43Z</time>
+<cmt>Weg vervolgen naar Devals/de D1</cmt>
+<desc>Weg vervolgen naar Devals/de D1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.4553" lon="2.0153">
+<ele>224</ele>
+<name>Neem op de</name>
+<time>2018-06-28T09:58:23Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Avenue de Sorèze/de D1</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Avenue de Sorèze/de D1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45796" lon="2.00748">
+<ele>218</ele>
+<name>Ga noordwe</name>
+<time>2018-06-28T10:00:31Z</time>
+<cmt>Ga noordwestelijke op Avenue de Sorèze/de D1 richting Boulevard Gambetta/de D622</cmt>
+<desc>Ga noordwestelijke op Avenue de Sorèze/de D1 richting Boulevard Gambetta/de D622</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45891" lon="2.00437">
+<ele>219</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T10:01:21Z</time>
+<cmt>Sla rechtsaf om op de D1 te blijven</cmt>
+<desc>Sla rechtsaf om op de D1 te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+</rte>
+</gpx>

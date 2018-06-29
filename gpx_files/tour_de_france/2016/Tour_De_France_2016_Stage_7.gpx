@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Tour De France 2016 Stage 7</name>
+<rtept lat="43.61379" lon="1.08292">
+<ele>156</ele>
+<name>Start near</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Start near 42-46 Avenue du Commandant Parisot, 32600 L'Isle-Jourdain, Frankrijk</cmt>
+<desc>Start near 42-46 Avenue du Commandant Parisot, 32600 L'Isle-Jourdain, Frankrijk</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.61379" lon="1.08292">
+<ele>156</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Vertrek in oostelijke richting op Avenue du Commandant Parisot naar Avenue de Verdun/de D9</cmt>
+<desc>Vertrek in oostelijke richting op Avenue du Commandant Parisot naar Avenue de Verdun/de D9</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.61373" lon="1.08341">
+<ele>155</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T00:00:07Z</time>
+<cmt>Sla rechtsaf naar Boulevard Carnot/de D924</cmt>
+<desc>Sla rechtsaf naar Boulevard Carnot/de D924</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.61218" lon="1.08014">
+<ele>151</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T00:01:23Z</time>
+<cmt>Sla linksaf naar Rue Charles Bacque/de D634</cmt>
+<desc>Sla linksaf naar Rue Charles Bacque/de D634</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.60668" lon="1.07033">
+<ele>145</ele>
+<name>Ga bij de </name>
+<time>2018-06-28T00:04:31Z</time>
+<cmt>Ga bij de rotonde rechtdoor om op de D634 te blijven</cmt>
+<desc>Ga bij de rotonde rechtdoor om op de D634 te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.59205" lon="1.05677">
+<ele>153</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:10:38Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   de D634</cmt>
+<desc>Vertrek in zuidwestelijke richting op   de D634</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.49683" lon="0.96864">
+<ele>164</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:49:19Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar de D632</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar de D632</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.4742" lon="0.9163">
+<ele>170</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T01:05:01Z</time>
+<cmt>Weg vervolgen naar Route de Toulouse/de D626</cmt>
+<desc>Weg vervolgen naar Route de Toulouse/de D626</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.47386" lon="0.90706">
+<ele>181</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T01:07:39Z</time>
+<cmt>Weg vervolgen naar de D632</cmt>
+<desc>Weg vervolgen naar de D632</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45248" lon="0.87518">
+<ele>178</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:18:17Z</time>
+<cmt>Sla rechtsaf</cmt>
+<desc>Sla rechtsaf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45257" lon="0.87491">
+<ele>179</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T01:18:22Z</time>
+<cmt>Sla linksaf</cmt>
+<desc>Sla linksaf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45153" lon="0.87366">
+<ele>181</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:18:50Z</time>
+<cmt>Vertrek in noordoostelijke richting</cmt>
+<desc>Vertrek in noordoostelijke richting</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45257" lon="0.87491">
+<ele>179</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:19:17Z</time>
+<cmt>Sla rechtsaf richting de D632</cmt>
+<desc>Sla rechtsaf richting de D632</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.45248" lon="0.87518">
+<ele>178</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:19:22Z</time>
+<cmt>Sla rechtsaf naar de D632</cmt>
+<desc>Sla rechtsaf naar de D632</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.29375" lon="0.66395">
+<ele>290</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:35:53Z</time>
+<cmt>Vertrek in zuidwestelijke richting op de D632 naar Bourtoulot</cmt>
+<desc>Vertrek in zuidwestelijke richting op de D632 naar Bourtoulot</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.29501" lon="0.58393">
+<ele>413</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:57:18Z</time>
+<cmt>Vertrek in zuidwestelijke richting op de D632 naar Guillette</cmt>
+<desc>Vertrek in zuidwestelijke richting op de D632 naar Guillette</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.29432" lon="0.50532">
+<ele>370</ele>
+<name>Neem op de</name>
+<time>2018-06-28T03:19:36Z</time>
+<cmt>Neem op de rotonde de 1ste afslag op Place de la Résistance/de D632 richting Puntous/Trie s/ Baïse/Tarbes</cmt>
+<desc>Neem op de rotonde de 1ste afslag op Place de la Résistance/de D632 richting Puntous/Trie s/ Baïse/Tarbes</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.30026" lon="0.41097">
+<ele>295</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:47:14Z</time>
+<cmt>Vertrek in westelijke richting op Route de Castelnau/de D632 naar Chemin de Houates</cmt>
+<desc>Vertrek in westelijke richting op Route de Castelnau/de D632 naar Chemin de Houates</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.32113" lon="0.37641">
+<ele>241</ele>
+<name>Ga in west</name>
+<time>2018-06-28T04:01:25Z</time>
+<cmt>Ga in westelijke riching op Le Padouen/de D632 naar Chemin de la Chaussée/de D939</cmt>
+<desc>Ga in westelijke riching op Le Padouen/de D632 naar Chemin de la Chaussée/de D939</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.30276" lon="0.34914">
+<ele>275</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:10:58Z</time>
+<cmt>Vertrek in zuidwestelijke richting op Monplaze/de D632 naar de D1</cmt>
+<desc>Vertrek in zuidwestelijke richting op Monplaze/de D632 naar de D1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.30427" lon="0.2299">
+<ele>208</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:42:50Z</time>
+<cmt>Sla linksaf naar Le Bourg/de D14</cmt>
+<desc>Sla linksaf naar Le Bourg/de D14</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.29845" lon="0.23071">
+<ele>205</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:44:56Z</time>
+<cmt>Vertrek in zuidelijke richting op   de D14</cmt>
+<desc>Vertrek in zuidelijke richting op   de D14</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.20194" lon="0.2258">
+<ele>266</ele>
+<name>Neem op de</name>
+<time>2018-06-28T05:17:59Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Route des Pyrénées/de D14</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Route des Pyrénées/de D14</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.19598" lon="0.22484">
+<ele>268</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:20:11Z</time>
+<cmt>Sla linksaf naar Cami de Hount d'Arrouy/de D817</cmt>
+<desc>Sla linksaf naar Cami de Hount d'Arrouy/de D817</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.18402" lon="0.24069">
+<ele>262</ele>
+<name>Neem op de</name>
+<time>2018-06-28T05:25:44Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar Avenue de la Gare/de D817</cmt>
+<desc>Neem op de rotonde de 3e afslag naar Avenue de la Gare/de D817</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.18499" lon="0.24517">
+<ele>268</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:26:57Z</time>
+<cmt>Sla rechtsaf naar Rue de la République/de D817</cmt>
+<desc>Sla rechtsaf naar Rue de la République/de D817</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.17631" lon="0.25161">
+<ele>279</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:30:15Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Cami Nau/de D817 naar Rue Carrera de Darré</cmt>
+<desc>Vertrek in zuidoostelijke richting op Cami Nau/de D817 naar Rue Carrera de Darré</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.10572" lon="0.32396">
+<ele>595</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:02:26Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Route de la Gare/de D211</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Route de la Gare/de D211</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.10436" lon="0.32779">
+<ele>599</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T06:03:34Z</time>
+<cmt>Weg vervolgen naar Rue de la Vallée d'Aure/de D11</cmt>
+<desc>Weg vervolgen naar Rue de la Vallée d'Aure/de D11</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.09644" lon="0.3309">
+<ele>622</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T06:06:27Z</time>
+<cmt>Weg vervolgen naar de D938</cmt>
+<desc>Weg vervolgen naar de D938</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.08029" lon="0.36271">
+<ele>644</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:16:43Z</time>
+<cmt>Neem op de rotonde de 2e afslag en rijd door op de D938</cmt>
+<desc>Neem op de rotonde de 2e afslag en rijd door op de D938</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.08288" lon="0.3722">
+<ele>608</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:19:16Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Route des Fours/de D938</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Route des Fours/de D938</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.07907" lon="0.38056">
+<ele>582</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:21:44Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar de D929</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar de D929</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.06847" lon="0.37329">
+<ele>588</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T06:25:42Z</time>
+<cmt>Vertrek in zuidwestelijke richting op Route d'Espagne/de D929 naar Chemin de la Lande</cmt>
+<desc>Vertrek in zuidwestelijke richting op Route d'Espagne/de D929 naar Chemin de la Lande</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="43.02763" lon="0.36944">
+<ele>631</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:39:32Z</time>
+<cmt>Neem op de rotonde de 3e afslag en rijd door op de D929</cmt>
+<desc>Neem op de rotonde de 3e afslag en rijd door op de D929</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.90932" lon="0.35996">
+<ele>705</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T07:22:43Z</time>
+<cmt>Sla rechtsaf naar Route du Col d'Aspin/de D918</cmt>
+<desc>Sla rechtsaf naar Route du Col d'Aspin/de D918</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.91845" lon="0.35533">
+<ele>849</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:31:21Z</time>
+<cmt>Vertrek in oostelijke richting op   de D918</cmt>
+<desc>Vertrek in oostelijke richting op   de D918</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.94254" lon="0.30967">
+<ele>1377</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:04:02Z</time>
+<cmt>Vertrek in westelijke richting op   de D918</cmt>
+<desc>Vertrek in westelijke richting op   de D918</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.9436" lon="0.27802">
+<ele>1097</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T08:16:27Z</time>
+<cmt>Sla linksaf naar Lartigue/de D113</cmt>
+<desc>Sla linksaf naar Lartigue/de D113</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.94044" lon="0.28253">
+<ele>1108</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:18:01Z</time>
+<cmt>Vertrek in zuidoostelijke richting op   de D113</cmt>
+<desc>Vertrek in zuidoostelijke richting op   de D113</desc>
+<sym>undefined</sym>
+</rtept>
+</rte>
+</gpx>

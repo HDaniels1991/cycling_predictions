@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Tour De France 2016 Stage 16</name>
+<rtept lat="46.43217" lon="5.72568">
+<ele>624</ele>
+<name>Start near</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Start near 36 Rue Roussin, 39260 Moirans-en-Montagne, Frankrijk</cmt>
+<desc>Start near 36 Rue Roussin, 39260 Moirans-en-Montagne, Frankrijk</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.43217" lon="5.72568">
+<ele>624</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Vertrek in noordelijke richting op Rue Roussin naar Rue du Lavoir</cmt>
+<desc>Vertrek in noordelijke richting op Rue Roussin naar Rue du Lavoir</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.43359" lon="5.72576">
+<ele>619</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T00:00:28Z</time>
+<cmt>Weg vervolgen naar Avenue de Franche Comté</cmt>
+<desc>Weg vervolgen naar Avenue de Franche Comté</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.43875" lon="5.72179">
+<ele>624</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T00:02:29Z</time>
+<cmt>Flauwe bocht naar rechts naar   Route du Hangar/de D296</cmt>
+<desc>Flauwe bocht naar rechts naar   Route du Hangar/de D296</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.44854" lon="5.71936">
+<ele>662</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:06:13Z</time>
+<cmt>Vertrek in noordelijke richting op de D296 naar Le Vey</cmt>
+<desc>Vertrek in noordelijke richting op de D296 naar Le Vey</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.4582" lon="5.7345">
+<ele>658</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T00:11:30Z</time>
+<cmt>Sla linksaf naar Rue de la Petite Croix/de D331</cmt>
+<desc>Sla linksaf naar Rue de la Petite Croix/de D331</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.46066" lon="5.72942">
+<ele>633</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:13:01Z</time>
+<cmt>Vertrek in westelijke richting op   de D331</cmt>
+<desc>Vertrek in westelijke richting op   de D331</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.46613" lon="5.71527">
+<ele>579</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T00:17:49Z</time>
+<cmt>Sla rechtsaf naar de D470</cmt>
+<desc>Sla rechtsaf naar de D470</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.4795" lon="5.72504">
+<ele>579</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:22:58Z</time>
+<cmt>Vertrek in noordelijke richting op   de D470</cmt>
+<desc>Vertrek in noordelijke richting op   de D470</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.49421" lon="5.72267">
+<ele>600</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T00:28:03Z</time>
+<cmt>Sla rechtsaf naar de D27</cmt>
+<desc>Sla rechtsaf naar de D27</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.5596" lon="5.7447">
+<ele>547</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:54:04Z</time>
+<cmt>Vertrek in noordelijke richting op de D27 naar Le Vilaret</cmt>
+<desc>Vertrek in noordelijke richting op de D27 naar Le Vilaret</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.57404" lon="5.74738">
+<ele>530</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:59:03Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Route de Lons le Saunier/de D678</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Route de Lons le Saunier/de D678</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.5894" lon="5.73042">
+<ele>483</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:06:24Z</time>
+<cmt>Sla rechtsaf naar de D27</cmt>
+<desc>Sla rechtsaf naar de D27</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.59473" lon="5.72665">
+<ele>456</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:09:03Z</time>
+<cmt>Sla rechtsaf om op de D27 te blijven</cmt>
+<desc>Sla rechtsaf om op de D27 te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.60798" lon="5.72991">
+<ele>461</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:15:05Z</time>
+<cmt>Vertrek in noordelijke richting op Route de Clairvaux/de D27 naar de D143</cmt>
+<desc>Vertrek in noordelijke richting op Route de Clairvaux/de D27 naar de D143</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.68675" lon="5.77958">
+<ele>505</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:52:20Z</time>
+<cmt>Vertrek in noordelijke richting op de D27 naar de D147E2</cmt>
+<desc>Vertrek in noordelijke richting op de D27 naar de D147E2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.7267" lon="5.78483">
+<ele>468</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T02:06:19Z</time>
+<cmt>Sla linksaf naar Rue du Vieux Pont/de D471</cmt>
+<desc>Sla linksaf naar Rue du Vieux Pont/de D471</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.7274" lon="5.78288">
+<ele>470</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:06:49Z</time>
+<cmt>Sla rechtsaf naar Rue de l'Ain/de D27</cmt>
+<desc>Sla rechtsaf naar Rue de l'Ain/de D27</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.75176" lon="5.8129">
+<ele>506</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T02:17:58Z</time>
+<cmt>Weg vervolgen naar Rue Rouget de Lisle/de D5</cmt>
+<desc>Weg vervolgen naar Rue Rouget de Lisle/de D5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.75174" lon="5.82709">
+<ele>536</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:22:05Z</time>
+<cmt>Sla rechtsaf</cmt>
+<desc>Sla rechtsaf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.75115" lon="5.82739">
+<ele>536</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T02:22:17Z</time>
+<cmt>Sla linksaf</cmt>
+<desc>Sla linksaf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.75119" lon="5.82827">
+<ele>534</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:22:30Z</time>
+<cmt>Vertrek in westelijke richting</cmt>
+<desc>Vertrek in westelijke richting</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.75115" lon="5.82739">
+<ele>536</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:22:42Z</time>
+<cmt>Sla rechtsaf richting de D5</cmt>
+<desc>Sla rechtsaf richting de D5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.75174" lon="5.82709">
+<ele>536</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T02:22:54Z</time>
+<cmt>Sla rechtsaf naar de D5</cmt>
+<desc>Sla rechtsaf naar de D5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.75963" lon="5.90689">
+<ele>548</ele>
+<name>Neem de op</name>
+<time>2018-06-28T02:42:00Z</time>
+<cmt>Neem de oprit naar Pontarlier/Genéve</cmt>
+<desc>Neem de oprit naar Pontarlier/Genéve</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.7582" lon="5.90965">
+<ele>559</ele>
+<name>Voeg in op</name>
+<time>2018-06-28T02:42:53Z</time>
+<cmt>Voeg in op RN 5/de N5</cmt>
+<desc>Voeg in op RN 5/de N5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.75639" lon="5.91112">
+<ele>558</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:43:34Z</time>
+<cmt>Vertrek in zuidoostelijke richting op   RN 5/de N5</cmt>
+<desc>Vertrek in zuidoostelijke richting op   RN 5/de N5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.74622" lon="5.92464">
+<ele>548</ele>
+<name>Neem de op</name>
+<time>2018-06-28T02:48:11Z</time>
+<cmt>Neem de oprit naar D471/Pontarlier/Champagnole/Nozeroy/Équevillon/Sapois/Centre Ville</cmt>
+<desc>Neem de oprit naar D471/Pontarlier/Champagnole/Nozeroy/Équevillon/Sapois/Centre Ville</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.74687" lon="5.92233">
+<ele>544</ele>
+<name>Neem op de</name>
+<time>2018-06-28T02:49:18Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Rue de Pontarlier/de D471</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Rue de Pontarlier/de D471</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.75386" lon="5.93346">
+<ele>584</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T02:52:55Z</time>
+<cmt>Vertrek in noordelijke richting op   Route de Pontarlier/de D471</cmt>
+<desc>Vertrek in noordelijke richting op   Route de Pontarlier/de D471</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.77861" lon="5.99904">
+<ele>767</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:15:54Z</time>
+<cmt>Vertrek in noordoostelijke richting op Route de Champagnole/de D471 naar Route de Mournans/de D21</cmt>
+<desc>Vertrek in noordoostelijke richting op Route de Champagnole/de D471 naar Route de Mournans/de D21</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.8173" lon="6.05765">
+<ele>841</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T03:36:28Z</time>
+<cmt>Sla rechtsaf naar Rue du Magasin/de D107</cmt>
+<desc>Sla rechtsaf naar Rue du Magasin/de D107</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.8117" lon="6.07778">
+<ele>831</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T03:41:27Z</time>
+<cmt>Vertrek in oostelijke richting op de D107 naar Route de Nozeroy</cmt>
+<desc>Vertrek in oostelijke richting op de D107 naar Route de Nozeroy</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.80576" lon="6.16337">
+<ele>850</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T04:01:55Z</time>
+<cmt>Weg vervolgen naar de D47</cmt>
+<desc>Weg vervolgen naar de D47</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.8084" lon="6.18433">
+<ele>850</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T04:06:56Z</time>
+<cmt>Weg vervolgen naar Rue de la Vallée du Drugeon/de D9</cmt>
+<desc>Weg vervolgen naar Rue de la Vallée du Drugeon/de D9</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.81501" lon="6.19928">
+<ele>858</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:11:03Z</time>
+<cmt>Vertrek in noordoostelijke richting op   de D9</cmt>
+<desc>Vertrek in noordoostelijke richting op   de D9</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.79642" lon="6.26847">
+<ele>858</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:35:37Z</time>
+<cmt>Vertrek in zuidelijke richting op de D9 naar La Rochette et le Petit Bo/de D46</cmt>
+<desc>Vertrek in zuidelijke richting op de D9 naar La Rochette et le Petit Bo/de D46</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.78327" lon="6.2836">
+<ele>859</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T04:41:33Z</time>
+<cmt>Sla linksaf naar Rue le Coude/de D437</cmt>
+<desc>Sla linksaf naar Rue le Coude/de D437</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.80669" lon="6.31803">
+<ele>903</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T04:52:59Z</time>
+<cmt>Vertrek in noordoostelijke richting op Grande Rue/de D437 naar Combette</cmt>
+<desc>Vertrek in noordoostelijke richting op Grande Rue/de D437 naar Combette</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.82854" lon="6.33646">
+<ele>907</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:01:53Z</time>
+<cmt>Vertrek in noordoostelijke richting op de D437 naar de D44</cmt>
+<desc>Vertrek in noordoostelijke richting op de D437 naar de D44</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.82999" lon="6.33899">
+<ele>898</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:02:38Z</time>
+<cmt>Sla rechtsaf naar Rue de la Combe Motta/de D44</cmt>
+<desc>Sla rechtsaf naar Rue de la Combe Motta/de D44</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.84067" lon="6.36064">
+<ele>961</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:09:05Z</time>
+<cmt>Vertrek in oostelijke richting op de D44 naar Au Bief des Rasses</cmt>
+<desc>Vertrek in oostelijke richting op de D44 naar Au Bief des Rasses</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.84553" lon="6.37009">
+<ele>920</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:12:04Z</time>
+<cmt>Sla linksaf naar de N57</cmt>
+<desc>Sla linksaf naar de N57</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.87223" lon="6.3776">
+<ele>868</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:21:41Z</time>
+<cmt>Sla rechtsaf naar Au Frambourg/de D67B</cmt>
+<desc>Sla rechtsaf naar Au Frambourg/de D67B</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.87647" lon="6.40411">
+<ele>885</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:28:05Z</time>
+<cmt>Vertrek in noordoostelijke richting op de D67B naar La Côte du Creux</cmt>
+<desc>Vertrek in noordoostelijke richting op de D67B naar La Côte du Creux</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.9007" lon="6.45794">
+<ele>929</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T05:43:35Z</time>
+<cmt>Weg vervolgen naar Meudon/de weg 10</cmt>
+<desc>Weg vervolgen naar Meudon/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.90617" lon="6.50425">
+<ele>932</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T05:54:31Z</time>
+<cmt>Vertrek in oostelijke richting op   de weg 10</cmt>
+<desc>Vertrek in oostelijke richting op   de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.92238" lon="6.62475">
+<ele>736</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:26:18Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar Rue de l'Hôpital/de weg 10</cmt>
+<desc>Neem op de rotonde de 3e afslag naar Rue de l'Hôpital/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97626" lon="6.80748">
+<ele>777</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:16:01Z</time>
+<cmt>Sla linksaf naar La Vieille-Fontaine</cmt>
+<desc>Sla linksaf naar La Vieille-Fontaine</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97639" lon="6.80731">
+<ele>776</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:16:05Z</time>
+<cmt>Vertrek in zuidoostelijke richting op La Vieille-Fontaine naar Route de Bourgogne/Route Principale/de weg 10</cmt>
+<desc>Vertrek in zuidoostelijke richting op La Vieille-Fontaine naar Route de Bourgogne/Route Principale/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97626" lon="6.80748">
+<ele>777</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:16:08Z</time>
+<cmt>Sla linksaf naar Route de Bourgogne/Route Principale/de weg 10</cmt>
+<desc>Sla linksaf naar Route de Bourgogne/Route Principale/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97812" lon="6.81019">
+<ele>760</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T07:17:02Z</time>
+<cmt>Sla rechtsaf naar Les Biolles (borden naar Lausanne)</cmt>
+<desc>Sla rechtsaf naar Les Biolles (borden naar Lausanne)</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96997" lon="6.8317">
+<ele>581</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:23:35Z</time>
+<cmt>Vertrek in oostelijke richting naar Rue de Pierre-à-Sisier</cmt>
+<desc>Vertrek in oostelijke richting naar Rue de Pierre-à-Sisier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96977" lon="6.8343">
+<ele>560</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T07:24:11Z</time>
+<cmt>Weg vervolgen naar Rue de la Gare</cmt>
+<desc>Weg vervolgen naar Rue de la Gare</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96729" lon="6.84128">
+<ele>524</ele>
+<name>Rue de la </name>
+<time>2018-06-28T07:25:59Z</time>
+<cmt>Rue de la Gare draait naar links en wordt Rue du Lac</cmt>
+<desc>Rue de la Gare draait naar links en wordt Rue du Lac</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96821" lon="6.85011">
+<ele>484</ele>
+<name>Neem op de</name>
+<time>2018-06-28T07:28:10Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar Avenue de la Gare</cmt>
+<desc>Neem op de rotonde de 3e afslag naar Avenue de la Gare</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96604" lon="6.85748">
+<ele>461</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:30:05Z</time>
+<cmt>Sla linksaf naar Rue des Vernes</cmt>
+<desc>Sla linksaf naar Rue des Vernes</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96749" lon="6.85779">
+<ele>455</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T07:30:34Z</time>
+<cmt>Sla rechtsaf naar Rue du Sentier</cmt>
+<desc>Sla rechtsaf naar Rue du Sentier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96693" lon="6.8607">
+<ele>452</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:31:16Z</time>
+<cmt>Vertrek in oostelijke richting op Rue du Sentier naar Chemin du Pontet</cmt>
+<desc>Vertrek in oostelijke richting op Rue du Sentier naar Chemin du Pontet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96685" lon="6.86156">
+<ele>452</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T07:31:28Z</time>
+<cmt>Flauwe bocht naar links naar   Rue du Vieux-Moulin</cmt>
+<desc>Flauwe bocht naar links naar   Rue du Vieux-Moulin</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96691" lon="6.86329">
+<ele>449</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T07:31:53Z</time>
+<cmt>Weg vervolgen naar Rue Saint-Etienne</cmt>
+<desc>Weg vervolgen naar Rue Saint-Etienne</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96653" lon="6.86505">
+<ele>441</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:32:18Z</time>
+<cmt>Sla linksaf naar Allée du Port/de weg 5</cmt>
+<desc>Sla linksaf naar Allée du Port/de weg 5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.9693" lon="6.86995">
+<ele>433</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:33:49Z</time>
+<cmt>Vertrek in noordelijke richting op   Allée du Port/de weg 5</cmt>
+<desc>Vertrek in noordelijke richting op   Allée du Port/de weg 5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97336" lon="6.87409">
+<ele>432</ele>
+<name>Ga oosteli</name>
+<time>2018-06-28T07:35:36Z</time>
+<cmt>Ga oostelijke op Rue de la Bâla/Route des Graviers/de weg 5 richting Place des Epancheurs</cmt>
+<desc>Ga oostelijke op Rue de la Bâla/Route des Graviers/de weg 5 richting Place des Epancheurs</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97705" lon="6.88183">
+<ele>434</ele>
+<name>Ga noordoo</name>
+<time>2018-06-28T07:37:48Z</time>
+<cmt>Ga noordoostelijke op Route du Lac/de weg 5</cmt>
+<desc>Ga noordoostelijke op Route du Lac/de weg 5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97851" lon="6.88798">
+<ele>439</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:39:17Z</time>
+<cmt>Vertrek in oostelijke richting</cmt>
+<desc>Vertrek in oostelijke richting</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97958" lon="6.89442">
+<ele>434</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:40:54Z</time>
+<cmt>Vertrek in oostelijke richting</cmt>
+<desc>Vertrek in oostelijke richting</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.98118" lon="6.90664">
+<ele>430</ele>
+<name>Neem de op</name>
+<time>2018-06-28T07:43:46Z</time>
+<cmt>Neem de oprit naar Neuchâtel Serrières/Neuchâtel-Centre</cmt>
+<desc>Neem de oprit naar Neuchâtel Serrières/Neuchâtel-Centre</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.98251" lon="6.90945">
+<ele>430</ele>
+<name>Houd recht</name>
+<time>2018-06-28T07:44:33Z</time>
+<cmt>Houd rechts aan bij de splitsing en volg de borden voor Neuchātel-Centre</cmt>
+<desc>Houd rechts aan bij de splitsing en volg de borden voor Neuchātel-Centre</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.983" lon="6.91012">
+<ele>429</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T07:44:47Z</time>
+<cmt>Weg vervolgen naar Quai Max-Petitpierre/de weg 5</cmt>
+<desc>Weg vervolgen naar Quai Max-Petitpierre/de weg 5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.99582" lon="6.94397">
+<ele>436</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:54:02Z</time>
+<cmt>Vertrek in noordoostelijke richting op Rue de la Pierre-à-Mazel/de weg 5 naar Passage de la Pierre-A-Mazel</cmt>
+<desc>Vertrek in noordoostelijke richting op Rue de la Pierre-à-Mazel/de weg 5 naar Passage de la Pierre-A-Mazel</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.00193" lon="6.95768">
+<ele>437</ele>
+<name>Neem op de</name>
+<time>2018-06-28T07:58:22Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Route des Falaises/de weg 5</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Route des Falaises/de weg 5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.00481" lon="6.96233">
+<ele>438</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T07:59:54Z</time>
+<cmt>Flauwe bocht naar rechts naar   Route des Gouttes-d'Or/de weg 5</cmt>
+<desc>Flauwe bocht naar rechts naar   Route des Gouttes-d'Or/de weg 5</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.00897" lon="6.96994">
+<ele>439</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:02:09Z</time>
+<cmt>Vertrek in noordoostelijke richting op Rouges-Terres/de weg 5 naar Chemin des Roseaux</cmt>
+<desc>Vertrek in noordoostelijke richting op Rouges-Terres/de weg 5 naar Chemin des Roseaux</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01219" lon="6.99065">
+<ele>433</ele>
+<name>Neem op de</name>
+<time>2018-06-28T08:07:24Z</time>
+<cmt>Neem op de rotonde de 1ste afslag op Avenue des Pâquiers richting weg 10/Bern/Marin-Epagnier</cmt>
+<desc>Neem op de rotonde de 1ste afslag op Avenue des Pâquiers richting weg 10/Bern/Marin-Epagnier</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01277" lon="6.99482">
+<ele>431</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T08:08:23Z</time>
+<cmt>Weg vervolgen naar Avenue des Champs-Montants</cmt>
+<desc>Weg vervolgen naar Avenue des Champs-Montants</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01258" lon="7.00617">
+<ele>459</ele>
+<name>Neem op de</name>
+<time>2018-06-28T08:11:02Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Rue de la Fleur-de-Lys</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Rue de la Fleur-de-Lys</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01292" lon="7.00702">
+<ele>461</ele>
+<name>Neem op de</name>
+<time>2018-06-28T08:11:22Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar Route de Wavre</cmt>
+<desc>Neem op de rotonde de 3e afslag naar Route de Wavre</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01637" lon="7.01187">
+<ele>466</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:13:02Z</time>
+<cmt>Vertrek in noordoostelijke richting op   Route de Wavre</cmt>
+<desc>Vertrek in noordoostelijke richting op   Route de Wavre</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01737" lon="7.01334">
+<ele>468</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T08:13:30Z</time>
+<cmt>Sla rechtsaf</cmt>
+<desc>Sla rechtsaf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01431" lon="7.01921">
+<ele>445</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T08:15:14Z</time>
+<cmt>Weg vervolgen naar Route Henripolis</cmt>
+<desc>Weg vervolgen naar Route Henripolis</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01377" lon="7.01988">
+<ele>446</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T08:15:28Z</time>
+<cmt>Sla linksaf naar Champ-de-la-Croix</cmt>
+<desc>Sla linksaf naar Champ-de-la-Croix</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.02034" lon="7.02735">
+<ele>435</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:18:16Z</time>
+<cmt>Vertrek in noordoostelijke richting op Champ de la Croix naar Closel-Bourbon</cmt>
+<desc>Vertrek in noordoostelijke richting op Champ de la Croix naar Closel-Bourbon</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.02053" lon="7.03074">
+<ele>432</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T08:19:05Z</time>
+<cmt>Sla linksaf de oprit op naar Bern</cmt>
+<desc>Sla linksaf de oprit op naar Bern</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.02075" lon="7.03071">
+<ele>432</ele>
+<name>Voeg in op</name>
+<time>2018-06-28T08:19:09Z</time>
+<cmt>Voeg in op de weg 10</cmt>
+<desc>Voeg in op de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.0203" lon="7.03975">
+<ele>429</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:21:18Z</time>
+<cmt>Vertrek in zuidoostelijke richting op   Neuenburgstrasse/de weg 10</cmt>
+<desc>Vertrek in zuidoostelijke richting op   Neuenburgstrasse/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01977" lon="7.0408">
+<ele>429</ele>
+<name>Neem op de</name>
+<time>2018-06-28T08:21:36Z</time>
+<cmt>Neem op de rotonde de 2e afslag op de weg 10 richting Erlach/Gals/Gampelen</cmt>
+<desc>Neem op de rotonde de 2e afslag op de weg 10 richting Erlach/Gals/Gampelen</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.02038" lon="7.04164">
+<ele>432</ele>
+<name>Neem op de</name>
+<time>2018-06-28T08:21:59Z</time>
+<cmt>Neem op de rotonde de 1ste afslag en rijd door op de weg 10</cmt>
+<desc>Neem op de rotonde de 1ste afslag en rijd door op de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01521" lon="7.06552">
+<ele>436</ele>
+<name>Neem op de</name>
+<time>2018-06-28T08:28:00Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Insstrasse/de weg 10</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Insstrasse/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.01318" lon="7.07987">
+<ele>439</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:31:23Z</time>
+<cmt>Vertrek in oostelijke richting op Insstrasse/de weg 10 naar Gampelengasse</cmt>
+<desc>Vertrek in oostelijke richting op Insstrasse/de weg 10 naar Gampelengasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.0053" lon="7.10643">
+<ele>476</ele>
+<name>Neem op de</name>
+<time>2018-06-28T08:38:19Z</time>
+<cmt>Neem op de rotonde de 2e afslag op Müntschemiergasse/de weg 10 richting Bern/Kerzers</cmt>
+<desc>Neem op de rotonde de 2e afslag op Müntschemiergasse/de weg 10 richting Bern/Kerzers</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="47.0027" lon="7.12197">
+<ele>474</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:42:05Z</time>
+<cmt>Vertrek in oostelijke richting op   Müntschemiergasse/de weg 10</cmt>
+<desc>Vertrek in oostelijke richting op   Müntschemiergasse/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.98052" lon="7.18598">
+<ele>432</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:58:49Z</time>
+<cmt>Vertrek in zuidoostelijke richting op   de weg 10</cmt>
+<desc>Vertrek in zuidoostelijke richting op   de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.9793" lon="7.18777">
+<ele>434</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T08:59:25Z</time>
+<cmt>Sla linksaf om op de weg 10 te blijven (borden naar Bern/Kerzers)</cmt>
+<desc>Sla linksaf om op de weg 10 te blijven (borden naar Bern/Kerzers)</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97612" lon="7.19561">
+<ele>455</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T09:01:35Z</time>
+<cmt>Sla rechtsaf naar Burgstatt/de weg 10/de weg 22 (borden naar Bern)</cmt>
+<desc>Sla rechtsaf naar Burgstatt/de weg 10/de weg 22 (borden naar Bern)</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97489" lon="7.19544">
+<ele>449</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T09:02:00Z</time>
+<cmt>Sla linksaf naar Gerbegasse/de weg 10 (borden naar Bern)</cmt>
+<desc>Sla linksaf naar Gerbegasse/de weg 10 (borden naar Bern)</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97503" lon="7.19797">
+<ele>452</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:02:36Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Vordere G./de weg 10 naar Schmittengässli</cmt>
+<desc>Vertrek in zuidoostelijke richting op Vordere G./de weg 10 naar Schmittengässli</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.97354" lon="7.20091">
+<ele>455</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T09:03:26Z</time>
+<cmt>Sla rechtsaf naar Bernstrasse/de weg 10</cmt>
+<desc>Sla rechtsaf naar Bernstrasse/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.95241" lon="7.22709">
+<ele>517</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:13:32Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Hauptstrasse/de weg 10 naar Haselstrasse</cmt>
+<desc>Vertrek in zuidoostelijke richting op Hauptstrasse/de weg 10 naar Haselstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94365" lon="7.22814">
+<ele>517</ele>
+<name>Neem de af</name>
+<time>2018-06-28T09:16:40Z</time>
+<cmt>Neem de afslag richting Bernstrasse/de weg 1/de weg 10</cmt>
+<desc>Neem de afslag richting Bernstrasse/de weg 1/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94293" lon="7.22868">
+<ele>517</ele>
+<name>Houd links</name>
+<time>2018-06-28T09:16:57Z</time>
+<cmt>Houd links aan en voeg in op Bernstrasse/de weg 1/de weg 10</cmt>
+<desc>Houd links aan en voeg in op Bernstrasse/de weg 1/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94302" lon="7.24072">
+<ele>473</ele>
+<name>Neem op de</name>
+<time>2018-06-28T09:19:51Z</time>
+<cmt>Neem op de rotonde de 2e afslag op Hauptstrasse/de weg 1/de weg 10 richting Bern</cmt>
+<desc>Neem op de rotonde de 2e afslag op Hauptstrasse/de weg 1/de weg 10 richting Bern</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94775" lon="7.25586">
+<ele>547</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:23:51Z</time>
+<cmt>Vertrek in noordoostelijke richting op   Murtenstrasse/de weg 1/de weg 10</cmt>
+<desc>Vertrek in noordoostelijke richting op   Murtenstrasse/de weg 1/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.95652" lon="7.27235">
+<ele>575</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:29:13Z</time>
+<cmt>Vertrek in oostelijke richting op Murtenstrasse/de weg 1/de weg 10 naar Stöckweg</cmt>
+<desc>Vertrek in oostelijke richting op Murtenstrasse/de weg 1/de weg 10 naar Stöckweg</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.95185" lon="7.30338">
+<ele>647</ele>
+<name>Neem op de</name>
+<time>2018-06-28T09:38:11Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Wehrstrasse/de weg 1/de weg 10</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Wehrstrasse/de weg 1/de weg 10</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.95312" lon="7.3447">
+<ele>606</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:48:01Z</time>
+<cmt>Vertrek in oostelijke richting op Murtenstrasse/de weg 1/de weg 10 naar Riedernstrasse</cmt>
+<desc>Vertrek in oostelijke richting op Murtenstrasse/de weg 1/de weg 10 naar Riedernstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94936" lon="7.38242">
+<ele>552</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T09:57:43Z</time>
+<cmt>Sla rechtsaf naar Waldmannstrasse</cmt>
+<desc>Sla rechtsaf naar Waldmannstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94876" lon="7.38299">
+<ele>557</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T09:57:57Z</time>
+<cmt>Sla linksaf om op Waldmannstrasse te blijven</cmt>
+<desc>Sla linksaf om op Waldmannstrasse te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94765" lon="7.39227">
+<ele>558</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T10:00:16Z</time>
+<cmt>Sla linksaf om op Waldmannstrasse te blijven</cmt>
+<desc>Sla linksaf om op Waldmannstrasse te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94706" lon="7.39344">
+<ele>556</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T10:00:38Z</time>
+<cmt>Sla linksaf naar Bümplizstrasse</cmt>
+<desc>Sla linksaf naar Bümplizstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94762" lon="7.39458">
+<ele>555</ele>
+<name>Neem op de</name>
+<time>2018-06-28T10:00:57Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Bethlehemstrasse</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Bethlehemstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94473" lon="7.39893">
+<ele>559</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:02:21Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Bethlehemstrasse naar Gotenstrasse</cmt>
+<desc>Vertrek in zuidoostelijke richting op Bethlehemstrasse naar Gotenstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94208" lon="7.40066">
+<ele>563</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T10:03:25Z</time>
+<cmt>Sla linksaf naar Bernstrasse</cmt>
+<desc>Sla linksaf naar Bernstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94181" lon="7.40388">
+<ele>566</ele>
+<name>Houd links</name>
+<time>2018-06-28T10:04:10Z</time>
+<cmt>Houd links aan en rij door op Weissensteinstrasse</cmt>
+<desc>Houd links aan en rij door op Weissensteinstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.93861" lon="7.42797">
+<ele>550</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T10:10:02Z</time>
+<cmt>Sla linksaf naar Schwarzenburgstrasse (borden naar Zentrum)</cmt>
+<desc>Sla linksaf naar Schwarzenburgstrasse (borden naar Zentrum)</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94044" lon="7.43101">
+<ele>538</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T10:10:59Z</time>
+<cmt>Weg vervolgen naar Eigerstrasse/de weg 10 (borden naar Zürich/Basel/Interlaken)</cmt>
+<desc>Weg vervolgen naar Eigerstrasse/de weg 10 (borden naar Zürich/Basel/Interlaken)</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94071" lon="7.43335">
+<ele>527</ele>
+<name>Houd links</name>
+<time>2018-06-28T10:11:37Z</time>
+<cmt>Houd links aan, blijf op Eigerstrasse/de weg 10 en volg de borden Zürich/Basel/Interlaken</cmt>
+<desc>Houd links aan, blijf op Eigerstrasse/de weg 10 en volg de borden Zürich/Basel/Interlaken</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.93994" lon="7.44512">
+<ele>511</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T10:14:22Z</time>
+<cmt>Vertrek in oostelijke richting op Monbijoubrücke/de weg 10 naar Dalmazirain</cmt>
+<desc>Vertrek in oostelijke richting op Monbijoubrücke/de weg 10 naar Dalmazirain</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94004" lon="7.44745">
+<ele>526</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T10:14:54Z</time>
+<cmt>Sla linksaf naar Aegertenstrasse</cmt>
+<desc>Sla linksaf naar Aegertenstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94234" lon="7.44841">
+<ele>534</ele>
+<name>Voeg in op</name>
+<time>2018-06-28T10:15:42Z</time>
+<cmt>Voeg in op Bernastrasse</cmt>
+<desc>Voeg in op Bernastrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94355" lon="7.4485">
+<ele>532</ele>
+<name>Ga noordoo</name>
+<time>2018-06-28T10:16:08Z</time>
+<cmt>Ga noordoostelijke op Bernastrasse/de weg 8 richting Helvetiapl.</cmt>
+<desc>Ga noordoostelijke op Bernastrasse/de weg 8 richting Helvetiapl.</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94413" lon="7.44915">
+<ele>533</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T10:16:23Z</time>
+<cmt>Sla rechtsaf naar Marienstrasse/de weg 94</cmt>
+<desc>Sla rechtsaf naar Marienstrasse/de weg 94</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94391" lon="7.45014">
+<ele>534</ele>
+<name>Ga in oost</name>
+<time>2018-06-28T10:16:38Z</time>
+<cmt>Ga in oostelijke riching op Marienstrasse naar Schwellenmattstrasse</cmt>
+<desc>Ga in oostelijke riching op Marienstrasse naar Schwellenmattstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.9439" lon="7.45046">
+<ele>535</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T10:16:42Z</time>
+<cmt>Sla linksaf naar Schwellenmattstrasse</cmt>
+<desc>Sla linksaf naar Schwellenmattstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94406" lon="7.45047">
+<ele>535</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T10:16:45Z</time>
+<cmt>Ga in noordelijke riching op Schwellenmattstrasse naar Englische Anlagen</cmt>
+<desc>Ga in noordelijke riching op Schwellenmattstrasse naar Englische Anlagen</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94443" lon="7.44978">
+<ele>528</ele>
+<name>Ga in west</name>
+<time>2018-06-28T10:17:00Z</time>
+<cmt>Ga in westelijke riching op Schwellenmattstrasse naar Kirchenfeldbrücke/de weg 8</cmt>
+<desc>Ga in westelijke riching op Schwellenmattstrasse naar Kirchenfeldbrücke/de weg 8</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94432" lon="7.44629">
+<ele>510</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T10:17:48Z</time>
+<cmt>Weg vervolgen naar Dalmazibrücke</cmt>
+<desc>Weg vervolgen naar Dalmazibrücke</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94464" lon="7.4453">
+<ele>504</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T10:18:03Z</time>
+<cmt>Flauwe bocht naar rechts om op Dalmazibrücke te blijven</cmt>
+<desc>Flauwe bocht naar rechts om op Dalmazibrücke te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94477" lon="7.44505">
+<ele>504</ele>
+<name>Neem op de</name>
+<time>2018-06-28T10:18:08Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Aarstrasse</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Aarstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.9451" lon="7.44519">
+<ele>507</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T10:18:15Z</time>
+<cmt>Ga in noordoostelijke riching op Aarstrasse naar Weihergasse</cmt>
+<desc>Ga in noordoostelijke riching op Aarstrasse naar Weihergasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94604" lon="7.45053">
+<ele>510</ele>
+<name>Ga in oost</name>
+<time>2018-06-28T10:19:34Z</time>
+<cmt>Ga in oostelijke riching op Aarstrasse naar Bubenbergrain</cmt>
+<desc>Ga in oostelijke riching op Aarstrasse naar Bubenbergrain</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94612" lon="7.453">
+<ele>506</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T10:20:07Z</time>
+<cmt>Weg vervolgen naar Schifflaube</cmt>
+<desc>Weg vervolgen naar Schifflaube</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94695" lon="7.45565">
+<ele>507</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T10:20:48Z</time>
+<cmt>Ga rechtdoor op Mühlenpl.</cmt>
+<desc>Ga rechtdoor op Mühlenpl.</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94716" lon="7.45607">
+<ele>508</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T10:20:55Z</time>
+<cmt>Weg vervolgen naar Gerberngasse</cmt>
+<desc>Weg vervolgen naar Gerberngasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94761" lon="7.45689">
+<ele>508</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T10:21:10Z</time>
+<cmt>Ga in noordoostelijke riching op Gerberngasse naar Wasserwerkgasse</cmt>
+<desc>Ga in noordoostelijke riching op Gerberngasse naar Wasserwerkgasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94837" lon="7.45783">
+<ele>509</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T10:21:30Z</time>
+<cmt>Weg vervolgen naar Mattenenge</cmt>
+<desc>Weg vervolgen naar Mattenenge</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94934" lon="7.45769">
+<ele>511</ele>
+<name>Ga in west</name>
+<time>2018-06-28T10:21:50Z</time>
+<cmt>Ga in westelijke riching op Nydeggstalden naar Nydeggtreppe</cmt>
+<desc>Ga in westelijke riching op Nydeggstalden naar Nydeggtreppe</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94882" lon="7.45645">
+<ele>520</ele>
+<name>Ga in oost</name>
+<time>2018-06-28T10:22:12Z</time>
+<cmt>Ga in oostelijke riching op Nydeggstalden naar Nydeggtreppe</cmt>
+<desc>Ga in oostelijke riching op Nydeggstalden naar Nydeggtreppe</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94883" lon="7.45652">
+<ele>519</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T10:22:13Z</time>
+<cmt>Sla rechtsaf naar Nydeggtreppe</cmt>
+<desc>Sla rechtsaf naar Nydeggtreppe</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94852" lon="7.45761">
+<ele>510</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T10:22:30Z</time>
+<cmt>Weg vervolgen naar Nydeggbrücke</cmt>
+<desc>Weg vervolgen naar Nydeggbrücke</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94848" lon="7.45834">
+<ele>508</ele>
+<name>Ga in oost</name>
+<time>2018-06-28T10:22:40Z</time>
+<cmt>Ga in oostelijke richting op Nydeggbrücke</cmt>
+<desc>Ga in oostelijke richting op Nydeggbrücke</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94841" lon="7.4594">
+<ele>515</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T10:22:55Z</time>
+<cmt>Weg vervolgen naar Grosser Muristalden</cmt>
+<desc>Weg vervolgen naar Grosser Muristalden</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94838" lon="7.45988">
+<ele>524</ele>
+<name>Neem op de</name>
+<time>2018-06-28T10:23:02Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Aargauerstalden</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Aargauerstalden</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.94905" lon="7.46042">
+<ele>532</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T10:23:19Z</time>
+<cmt>Ga in noordelijke riching op Aargauerstalden naar Lerberstrasse</cmt>
+<desc>Ga in noordelijke riching op Aargauerstalden naar Lerberstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.95281" lon="7.45886">
+<ele>567</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T10:24:39Z</time>
+<cmt>Flauwe bocht naar rechts om op Aargauerstalden te blijven</cmt>
+<desc>Flauwe bocht naar rechts om op Aargauerstalden te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.95326" lon="7.4593">
+<ele>564</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T10:24:50Z</time>
+<cmt>Weg vervolgen naar Papiermühlestrasse/de weg 6</cmt>
+<desc>Weg vervolgen naar Papiermühlestrasse/de weg 6</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.95371" lon="7.45957">
+<ele>564</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T10:25:00Z</time>
+<cmt>Ga in noordoostelijke riching op Papiermühlestrasse/de weg 6 naar Reiterstrasse</cmt>
+<desc>Ga in noordoostelijke riching op Papiermühlestrasse/de weg 6 naar Reiterstrasse</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="46.96081" lon="7.46502">
+<ele>561</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T10:27:41Z</time>
+<cmt>Ga in noordoostelijke richting op Papiermühlestrasse/de weg 6</cmt>
+<desc>Ga in noordoostelijke richting op Papiermühlestrasse/de weg 6</desc>
+<sym>undefined</sym>
+</rtept>
+</rte>
+</gpx>

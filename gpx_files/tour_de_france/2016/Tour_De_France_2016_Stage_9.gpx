@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Tour De France 2016 Stage 9</name>
+<rtept lat="42.70302" lon="0.79341">
+<ele>978</ele>
+<name>Start near</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Start near Avenguda Baile Calbetó Barra, 2, 25530 Vielha, Lérida, Spanje</cmt>
+<desc>Start near Avenguda Baile Calbetó Barra, 2, 25530 Vielha, Lérida, Spanje</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.70302" lon="0.79341">
+<ele>978</ele>
+<name>Ga noordwe</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Ga noordwestelijke richting Avenguda Baile Calbetó Barra/de N-230</cmt>
+<desc>Ga noordwestelijke richting Avenguda Baile Calbetó Barra/de N-230</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.70294" lon="0.79337">
+<ele>979</ele>
+<name>Verlaat de</name>
+<time>2018-06-28T00:00:13Z</time>
+<cmt>Verlaat de rotonde naar de C-28</cmt>
+<desc>Verlaat de rotonde naar de C-28</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.69858" lon="0.80414">
+<ele>992</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T00:03:17Z</time>
+<cmt>Sla linksaf</cmt>
+<desc>Sla linksaf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.69792" lon="0.80733">
+<ele>1004</ele>
+<name>Houd recht</name>
+<time>2018-06-28T00:04:08Z</time>
+<cmt>Houd rechts aan om door te rijden in de richting van de C-28</cmt>
+<desc>Houd rechts aan om door te rijden in de richting van de C-28</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.69721" lon="0.8097">
+<ele>1008</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:04:47Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar de C-28</cmt>
+<desc>Neem op de rotonde de 2e afslag naar de C-28</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.70396" lon="0.91928">
+<ele>1416</ele>
+<name>Ga zuidoos</name>
+<time>2018-06-28T00:37:43Z</time>
+<cmt>Ga zuidoostelijke op de C-28</cmt>
+<desc>Ga zuidoostelijke op de C-28</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.61703" lon="1.11818">
+<ele>979</ele>
+<name>Ga zuideli</name>
+<time>2018-06-28T02:04:40Z</time>
+<cmt>Ga zuidelijke op de C-28 richting de C-13z</cmt>
+<desc>Ga zuidelijke op de C-28 richting de C-13z</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.60748" lon="1.12586">
+<ele>945</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T02:08:23Z</time>
+<cmt>Weg vervolgen naar Carrer Carretera/de C-13 (borden naar La Guingueta D'Àneu/Sort)</cmt>
+<desc>Weg vervolgen naar Carrer Carretera/de C-13 (borden naar La Guingueta D'Àneu/Sort)</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.4103" lon="1.12874">
+<ele>691</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T03:38:30Z</time>
+<cmt>Sla linksaf naar de N-260</cmt>
+<desc>Sla linksaf naar de N-260</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.37269" lon="1.2321">
+<ele>1686</ele>
+<name>Ga zuidoos</name>
+<time>2018-06-28T04:34:48Z</time>
+<cmt>Ga zuidoostelijke op de N-260</cmt>
+<desc>Ga zuidoostelijke op de N-260</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.35175" lon="1.3241">
+<ele>1245</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T05:18:22Z</time>
+<cmt>Ga rechtdoor om op de N-260 te blijven</cmt>
+<desc>Ga rechtdoor om op de N-260 te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.32982" lon="1.38379">
+<ele>730</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T05:47:39Z</time>
+<cmt>Flauwe bocht naar rechts</cmt>
+<desc>Flauwe bocht naar rechts</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.32927" lon="1.3839">
+<ele>712</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T05:47:57Z</time>
+<cmt>Flauwe bocht naar links</cmt>
+<desc>Flauwe bocht naar links</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.32709" lon="1.39073">
+<ele>638</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T05:49:59Z</time>
+<cmt>Flauwe bocht naar rechts naar   de N-260</cmt>
+<desc>Flauwe bocht naar rechts naar   de N-260</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.33752" lon="1.41509">
+<ele>663</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T05:57:54Z</time>
+<cmt>Flauwe bocht naar rechts richting Carrer Subinyes</cmt>
+<desc>Flauwe bocht naar rechts richting Carrer Subinyes</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.33795" lon="1.41609">
+<ele>665</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T05:58:12Z</time>
+<cmt>Weg vervolgen naar Carrer Subinyes</cmt>
+<desc>Weg vervolgen naar Carrer Subinyes</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.34042" lon="1.42047">
+<ele>673</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T05:59:37Z</time>
+<cmt>Sla linksaf</cmt>
+<desc>Sla linksaf</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.34122" lon="1.42083">
+<ele>674</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T05:59:56Z</time>
+<cmt>Sla rechtsaf richting de N-260</cmt>
+<desc>Sla rechtsaf richting de N-260</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.34252" lon="1.42291">
+<ele>678</ele>
+<name>Neem de op</name>
+<time>2018-06-28T06:00:38Z</time>
+<cmt>Neem de oprit naar de N-260</cmt>
+<desc>Neem de oprit naar de N-260</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.34416" lon="1.42499">
+<ele>683</ele>
+<name>Voeg in op</name>
+<time>2018-06-28T06:01:23Z</time>
+<cmt>Voeg in op de N-260</cmt>
+<desc>Voeg in op de N-260</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.36229" lon="1.45593">
+<ele>712</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:11:35Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar de N-145</cmt>
+<desc>Neem op de rotonde de 3e afslag naar de N-145</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.38203" lon="1.4596">
+<ele>740</ele>
+<name>Ga noordel</name>
+<time>2018-06-28T06:18:51Z</time>
+<cmt>Ga noordelijke op de N-145</cmt>
+<desc>Ga noordelijke op de N-145</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.43456" lon="1.47158">
+<ele>859</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T06:39:06Z</time>
+<cmt>Ga in noordoostelijke richting op de N-145</cmt>
+<desc>Ga in noordoostelijke richting op de N-145</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.43526" lon="1.47265">
+<ele>856</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T06:39:27Z</time>
+<cmt>Weg vervolgen naar de CG-1</cmt>
+<desc>Weg vervolgen naar de CG-1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.43601" lon="1.47344">
+<ele>855</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T06:39:46Z</time>
+<cmt>Ga in noordoostelijke richting op de CG-1</cmt>
+<desc>Ga in noordoostelijke richting op de CG-1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.43788" lon="1.47635">
+<ele>869</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T06:40:47Z</time>
+<cmt>Flauwe bocht naar rechts om op de CG-1 te blijven</cmt>
+<desc>Flauwe bocht naar rechts om op de CG-1 te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.43919" lon="1.47668">
+<ele>861</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T06:41:16Z</time>
+<cmt>Ga in noordelijke riching op de CG-1 naar Juberri</cmt>
+<desc>Ga in noordelijke riching op de CG-1 naar Juberri</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.44619" lon="1.48217">
+<ele>884</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T06:44:02Z</time>
+<cmt>Ga in noordelijke richting op de CG-1</cmt>
+<desc>Ga in noordelijke richting op de CG-1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.45065" lon="1.48577">
+<ele>892</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T06:45:54Z</time>
+<cmt>Flauwe bocht naar links om op de CG-1 te blijven</cmt>
+<desc>Flauwe bocht naar links om op de CG-1 te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.46138" lon="1.49028">
+<ele>913</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T06:49:53Z</time>
+<cmt>Ga in noordoostelijke riching op Av. Verge de Canòlich/de CG-1 naar Av. Verge de Canòlich</cmt>
+<desc>Ga in noordoostelijke riching op Av. Verge de Canòlich/de CG-1 naar Av. Verge de Canòlich</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.46284" lon="1.49111">
+<ele>914</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T06:50:27Z</time>
+<cmt>Weg vervolgen naar Plaça Major</cmt>
+<desc>Weg vervolgen naar Plaça Major</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.46342" lon="1.49097">
+<ele>913</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T06:50:39Z</time>
+<cmt>Weg vervolgen naar Av. Verge de Canòlich</cmt>
+<desc>Weg vervolgen naar Av. Verge de Canòlich</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.47134" lon="1.4934">
+<ele>929</ele>
+<name>Neem op de</name>
+<time>2018-06-28T06:53:27Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Av. Verge de Canòlich/de CG-1</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Av. Verge de Canòlich/de CG-1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.48722" lon="1.49477">
+<ele>958</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T06:59:45Z</time>
+<cmt>Ga in noordelijke riching op de CG-1 naar Carrer Pobladó</cmt>
+<desc>Ga in noordelijke riching op de CG-1 naar Carrer Pobladó</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.48975" lon="1.49604">
+<ele>973</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T07:00:41Z</time>
+<cmt>Weg vervolgen naar Carrer Pobladó</cmt>
+<desc>Weg vervolgen naar Carrer Pobladó</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.49112" lon="1.49639">
+<ele>981</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T07:01:10Z</time>
+<cmt>Weg vervolgen naar de CG-1</cmt>
+<desc>Weg vervolgen naar de CG-1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.49512" lon="1.50382">
+<ele>988</ele>
+<name>Neem op de</name>
+<time>2018-06-28T07:03:27Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Carrer Prat Salit</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Carrer Prat Salit</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.49527" lon="1.50394">
+<ele>988</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T07:03:31Z</time>
+<cmt>Flauwe bocht naar rechts naar   Camí Riu Valira</cmt>
+<desc>Flauwe bocht naar rechts naar   Camí Riu Valira</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.50171" lon="1.51292">
+<ele>998</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T07:06:43Z</time>
+<cmt>Sla rechtsaf naar Av. de Salou</cmt>
+<desc>Sla rechtsaf naar Av. de Salou</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.5016" lon="1.51316">
+<ele>996</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:06:48Z</time>
+<cmt>Sla linksaf om op Av. de Salou te blijven</cmt>
+<desc>Sla linksaf om op Av. de Salou te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.50364" lon="1.51888">
+<ele>1001</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T07:08:28Z</time>
+<cmt>Weg vervolgen naar de CG-1</cmt>
+<desc>Weg vervolgen naar de CG-1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.50361" lon="1.51923">
+<ele>1001</ele>
+<name>Neem op de</name>
+<time>2018-06-28T07:08:33Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Ctra. de la Comella i de la Plana/de CS-101</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Ctra. de la Comella i de la Plana/de CS-101</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.502" lon="1.51988">
+<ele>1018</ele>
+<name>Ga in zuid</name>
+<time>2018-06-28T07:09:13Z</time>
+<cmt>Ga in zuidelijke richting op Ctra. de la Comella i de la Plana/de CS-101</cmt>
+<desc>Ga in zuidelijke richting op Ctra. de la Comella i de la Plana/de CS-101</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.50103" lon="1.51788">
+<ele>1038</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:09:57Z</time>
+<cmt>Sla linksaf om op Ctra. de la Comella i de la Plana/de CS-101 te blijven</cmt>
+<desc>Sla linksaf om op Ctra. de la Comella i de la Plana/de CS-101 te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.49778" lon="1.51652">
+<ele>1127</ele>
+<name>Ga in oost</name>
+<time>2018-06-28T07:12:50Z</time>
+<cmt>Ga in oostelijke richting op Ctra. de la Comella i de la Plana/de CS-101</cmt>
+<desc>Ga in oostelijke richting op Ctra. de la Comella i de la Plana/de CS-101</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.50067" lon="1.52425">
+<ele>1207</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T07:16:16Z</time>
+<cmt>Ga in noordoostelijke riching op Ctra. de la Comella i de la Plana/de CS-101 naar Borda del Sucarà</cmt>
+<desc>Ga in noordoostelijke riching op Ctra. de la Comella i de la Plana/de CS-101 naar Borda del Sucarà</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.50107" lon="1.53389">
+<ele>1317</ele>
+<name>Ga in west</name>
+<time>2018-06-28T07:23:03Z</time>
+<cmt>Ga in westelijke riching op Ctra. de la Comella i de la Plana/de CS-101 naar Camí de la Plana</cmt>
+<desc>Ga in westelijke riching op Ctra. de la Comella i de la Plana/de CS-101 naar Camí de la Plana</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.50555" lon="1.54751">
+<ele>1241</ele>
+<name>Ga in zuid</name>
+<time>2018-06-28T07:28:21Z</time>
+<cmt>Ga in zuidoostelijke riching op Ctra. de la Comella i de la Plana/de CS-101 naar Camí de la Muntanya</cmt>
+<desc>Ga in zuidoostelijke riching op Ctra. de la Comella i de la Plana/de CS-101 naar Camí de la Muntanya</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.5041" lon="1.55223">
+<ele>1243</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:29:38Z</time>
+<cmt>Sla linksaf naar Ctra. d'Engolasters/de CS-200</cmt>
+<desc>Sla linksaf naar Ctra. d'Engolasters/de CS-200</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.50997" lon="1.54838">
+<ele>1137</ele>
+<name>Neem op de</name>
+<time>2018-06-28T07:32:52Z</time>
+<cmt>Neem op de rotonde de 1ste afslag</cmt>
+<desc>Neem op de rotonde de 1ste afslag</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.51083" lon="1.54855">
+<ele>1134</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T07:33:10Z</time>
+<cmt>Ga in noordelijke richting naar Ctra. d'Engolasters/de CG-2</cmt>
+<desc>Ga in noordelijke richting naar Ctra. d'Engolasters/de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.51095" lon="1.5486">
+<ele>1132</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T07:33:13Z</time>
+<cmt>Weg vervolgen naar Ctra. d'Engolasters/de CG-2</cmt>
+<desc>Weg vervolgen naar Ctra. d'Engolasters/de CG-2</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.5131" lon="1.55161">
+<ele>1132</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T07:34:16Z</time>
+<cmt>Flauwe bocht naar rechts om op de CG-2 te blijven</cmt>
+<desc>Flauwe bocht naar rechts om op de CG-2 te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.51579" lon="1.55414">
+<ele>1155</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T07:35:25Z</time>
+<cmt>Flauwe bocht naar links om op de CG-2 te blijven</cmt>
+<desc>Flauwe bocht naar links om op de CG-2 te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53175" lon="1.57962">
+<ele>1284</ele>
+<name>Neem op de</name>
+<time>2018-06-28T07:44:31Z</time>
+<cmt>Neem op de rotonde de 2e afslag</cmt>
+<desc>Neem op de rotonde de 2e afslag</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53214" lon="1.58227">
+<ele>1284</ele>
+<name>Ga in noor</name>
+<time>2018-06-28T07:45:16Z</time>
+<cmt>Ga in noordelijke richting naar Carrer Mirador d'Encamp</cmt>
+<desc>Ga in noordelijke richting naar Carrer Mirador d'Encamp</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53287" lon="1.58275">
+<ele>1277</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T07:45:32Z</time>
+<cmt>Flauwe bocht naar links naar   Carrer Mirador d'Encamp</cmt>
+<desc>Flauwe bocht naar links naar   Carrer Mirador d'Encamp</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53391" lon="1.58101">
+<ele>1256</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T07:46:14Z</time>
+<cmt>Flauwe bocht naar links naar   Carrer d'Engolasters</cmt>
+<desc>Flauwe bocht naar links naar   Carrer d'Engolasters</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53396" lon="1.58068">
+<ele>1254</ele>
+<name>Neem op de</name>
+<time>2018-06-28T07:46:19Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Av. Príncep Benlloch</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Av. Príncep Benlloch</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53472" lon="1.5786">
+<ele>1249</ele>
+<name>Ga in west</name>
+<time>2018-06-28T07:46:59Z</time>
+<cmt>Ga in westelijke riching op Av. Príncep Benlloch naar Carrer de la Rectoria</cmt>
+<desc>Ga in westelijke riching op Av. Príncep Benlloch naar Carrer de la Rectoria</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.5345" lon="1.57734">
+<ele>1246</ele>
+<name>Neem op de</name>
+<time>2018-06-28T07:47:19Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Ctra. de Vila i de Beixalís</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Ctra. de Vila i de Beixalís</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53256" lon="1.56814">
+<ele>1310</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T07:50:37Z</time>
+<cmt>Vertrek in zuidelijke richting op Ctra. de Vila i de Beixalís naar Urb. Vila</cmt>
+<desc>Vertrek in zuidelijke richting op Ctra. de Vila i de Beixalís naar Urb. Vila</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53212" lon="1.56528">
+<ele>1338</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:51:37Z</time>
+<cmt>Sla linksaf om op Ctra. de Vila i de Beixalís te blijven</cmt>
+<desc>Sla linksaf om op Ctra. de Vila i de Beixalís te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53149" lon="1.56465">
+<ele>1340</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T07:51:57Z</time>
+<cmt>Sla rechtsaf om op Ctra. de Vila i de Beixalís te blijven</cmt>
+<desc>Sla rechtsaf om op Ctra. de Vila i de Beixalís te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53242" lon="1.55927">
+<ele>1513</ele>
+<name>Scherpe bo</name>
+<time>2018-06-28T07:56:27Z</time>
+<cmt>Scherpe bocht naar rechts om op Ctra. de Vila i de Beixalís te blijven</cmt>
+<desc>Scherpe bocht naar rechts om op Ctra. de Vila i de Beixalís te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53201" lon="1.55658">
+<ele>1599</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T07:59:32Z</time>
+<cmt>Sla linksaf om op Ctra. de Vila i de Beixalís te blijven</cmt>
+<desc>Sla linksaf om op Ctra. de Vila i de Beixalís te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53174" lon="1.5528">
+<ele>1690</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:03:12Z</time>
+<cmt>Vertrek in zuidwestelijke richting op   Ctra. de Vila i de Beixalís</cmt>
+<desc>Vertrek in zuidwestelijke richting op   Ctra. de Vila i de Beixalís</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.52775" lon="1.5479">
+<ele>1802</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T08:08:08Z</time>
+<cmt>Weg vervolgen naar Ctra. d'Anyós</cmt>
+<desc>Weg vervolgen naar Ctra. d'Anyós</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53814" lon="1.54904">
+<ele>1745</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T08:12:16Z</time>
+<cmt>Sla linksaf om op Ctra. d'Anyós te blijven</cmt>
+<desc>Sla linksaf om op Ctra. d'Anyós te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53179" lon="1.53203">
+<ele>1452</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T08:23:22Z</time>
+<cmt>Sla rechtsaf om op Ctra. d'Anyós te blijven</cmt>
+<desc>Sla rechtsaf om op Ctra. d'Anyós te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53334" lon="1.52924">
+<ele>1425</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:24:15Z</time>
+<cmt>Vertrek in noordwestelijke richting op Ctra. d'Anyós naar De la Bixellosa</cmt>
+<desc>Vertrek in noordwestelijke richting op Ctra. d'Anyós naar De la Bixellosa</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.53648" lon="1.52834">
+<ele>1327</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T08:27:34Z</time>
+<cmt>Flauwe bocht naar rechts naar   Ctra. de l'Aldosa de la Massana/de CS-335</cmt>
+<desc>Flauwe bocht naar rechts naar   Ctra. de l'Aldosa de la Massana/de CS-335</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.54006" lon="1.5241">
+<ele>1302</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:30:14Z</time>
+<cmt>Vertrek in noordwestelijke richting op Ctra. de l'Aldosa de la Massana/de CS-335 naar Camí de la Creu Blanca</cmt>
+<desc>Vertrek in noordwestelijke richting op Ctra. de l'Aldosa de la Massana/de CS-335 naar Camí de la Creu Blanca</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.55144" lon="1.52643">
+<ele>1263</ele>
+<name>Neem op de</name>
+<time>2018-06-28T08:34:24Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Av. del Casamanya/de CG-3</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Av. del Casamanya/de CG-3</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.55289" lon="1.52785">
+<ele>1270</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T08:35:01Z</time>
+<cmt>Vertrek in noordoostelijke richting op Av. del Casamanya/de CG-3 naar Carrer de la Clota Verda</cmt>
+<desc>Vertrek in noordoostelijke richting op Av. del Casamanya/de CG-3 naar Carrer de la Clota Verda</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.55562" lon="1.53277">
+<ele>1294</ele>
+<name>Neem op de</name>
+<time>2018-06-28T08:36:41Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar Travessia d'Ordino/de CG-3</cmt>
+<desc>Neem op de rotonde de 3e afslag naar Travessia d'Ordino/de CG-3</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.55671" lon="1.53258">
+<ele>1294</ele>
+<name>Neem op de</name>
+<time>2018-06-28T08:37:11Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Av. de les Moles/de CG-3</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Av. de les Moles/de CG-3</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.56884" lon="1.52128">
+<ele>1318</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T08:42:26Z</time>
+<cmt>Weg vervolgen naar Av. de la Cortinada</cmt>
+<desc>Weg vervolgen naar Av. de la Cortinada</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.56946" lon="1.52108">
+<ele>1321</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T08:42:39Z</time>
+<cmt>Weg vervolgen naar Av. de Sant Miquel/de CG-3</cmt>
+<desc>Weg vervolgen naar Av. de Sant Miquel/de CG-3</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.62466" lon="1.52883">
+<ele>1715</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:08:25Z</time>
+<cmt>Vertrek in westelijke richting op Av. de Tristaina/de CG-3 naar Ctra. Vella</cmt>
+<desc>Vertrek in westelijke richting op Av. de Tristaina/de CG-3 naar Ctra. Vella</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.63207" lon="1.5113">
+<ele>1856</ele>
+<name>Av. de Tri</name>
+<time>2018-06-28T09:13:56Z</time>
+<cmt>Av. de Tristaina/de CG-3 draait iets naar links en wordt Ctra. d'Arcalís/de CS-380</cmt>
+<desc>Av. de Tristaina/de CG-3 draait iets naar links en wordt Ctra. d'Arcalís/de CS-380</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="42.6313" lon="1.50283">
+<ele>1942</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T09:17:25Z</time>
+<cmt>Vertrek in westelijke richting op Ctra. d'Arcalís/de CS-380 naar Ctra. Vella</cmt>
+<desc>Vertrek in westelijke richting op Ctra. d'Arcalís/de CS-380 naar Ctra. Vella</desc>
+<sym>undefined</sym>
+</rtept>
+</rte>
+</gpx>

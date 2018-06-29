@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Tour De France 2016 Stage 18</name>
+<rtept lat="45.93646" lon="6.63116">
+<ele>557</ele>
+<name>Start near</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Start near 2-9 Quai de Warens, 74700 Sallanches, Frankrijk</cmt>
+<desc>Start near 2-9 Quai de Warens, 74700 Sallanches, Frankrijk</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.93646" lon="6.63116">
+<ele>557</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Vertrek in zuidelijke richting op Pont Neuf/de D1205 naar Quai Alexandre Curral/de D1212</cmt>
+<desc>Vertrek in zuidelijke richting op Pont Neuf/de D1205 naar Quai Alexandre Curral/de D1212</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.91474" lon="6.65056">
+<ele>556</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T00:08:38Z</time>
+<cmt>Flauwe bocht naar rechts naar   Route de Létraz</cmt>
+<desc>Flauwe bocht naar rechts naar   Route de Létraz</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.91064" lon="6.65376">
+<ele>567</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:10:12Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Route du Chef Lieu/de D199</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Route du Chef Lieu/de D199</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.9111" lon="6.65223">
+<ele>573</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:10:43Z</time>
+<cmt>Vertrek in noordwestelijke richting op Route du Chef Lieu/de D199 naar Impasse de Becuet</cmt>
+<desc>Vertrek in noordwestelijke richting op Route du Chef Lieu/de D199 naar Impasse de Becuet</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.90683" lon="6.64376">
+<ele>760</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:16:37Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Route du Chef Lieu/de D199 naar Route de Megève/de D1212</cmt>
+<desc>Vertrek in zuidoostelijke richting op Route du Chef Lieu/de D199 naar Route de Megève/de D1212</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.90717" lon="6.64057">
+<ele>810</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T00:17:59Z</time>
+<cmt>Sla linksaf naar Route de Megève/de D1212</cmt>
+<desc>Sla linksaf naar Route de Megève/de D1212</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.903" lon="6.64658">
+<ele>850</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:20:20Z</time>
+<cmt>Vertrek in zuidoostelijke richting op Route de Megève/de D1212 naar Route de Sallanches</cmt>
+<desc>Vertrek in zuidoostelijke richting op Route de Megève/de D1212 naar Route de Sallanches</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.89653" lon="6.64347">
+<ele>970</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:27:43Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Route de Sallanches/de D1212</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Route de Sallanches/de D1212</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.88278" lon="6.64187">
+<ele>1045</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:32:46Z</time>
+<cmt>Neem op de rotonde de 1ste afslag naar Route de Sallanches/de D1212</cmt>
+<desc>Neem op de rotonde de 1ste afslag naar Route de Sallanches/de D1212</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.87454" lon="6.63298">
+<ele>1089</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:36:26Z</time>
+<cmt>Vertrek in zuidelijke richting op Route de Sallanches/de D1212 naar Allée des Merisiers</cmt>
+<desc>Vertrek in zuidelijke richting op Route de Sallanches/de D1212 naar Allée des Merisiers</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.87153" lon="6.63008">
+<ele>1105</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:37:41Z</time>
+<cmt>Neem op de rotonde de 1ste afslag en rijd door op Route de Sallanches/de D1212</cmt>
+<desc>Neem op de rotonde de 1ste afslag en rijd door op Route de Sallanches/de D1212</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.8689" lon="6.62842">
+<ele>1112</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T00:38:39Z</time>
+<cmt>Sla linksaf naar Route du Petit Bois</cmt>
+<desc>Sla linksaf naar Route du Petit Bois</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.87002" lon="6.63266">
+<ele>1114</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T00:39:51Z</time>
+<cmt>Ga rechtdoor op Route de vers le Nant</cmt>
+<desc>Ga rechtdoor op Route de vers le Nant</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.87209" lon="6.63641">
+<ele>1146</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:41:01Z</time>
+<cmt>Vertrek in noordoostelijke richting op Route de vers le Nant naar Route de Combafort</cmt>
+<desc>Vertrek in noordoostelijke richting op Route de vers le Nant naar Route de Combafort</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.87219" lon="6.64166">
+<ele>1184</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T00:42:25Z</time>
+<cmt>Sla rechtsaf naar Route des Chozeaux</cmt>
+<desc>Sla rechtsaf naar Route des Chozeaux</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.86652" lon="6.63508">
+<ele>1213</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:45:04Z</time>
+<cmt>Vertrek in zuidwestelijke richting op Route des Chozeaux naar Route Edmond de Rothschild/de D309A</cmt>
+<desc>Vertrek in zuidwestelijke richting op Route des Chozeaux naar Route Edmond de Rothschild/de D309A</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.86585" lon="6.6336">
+<ele>1209</ele>
+<name>Flauwe boc</name>
+<time>2018-06-28T00:45:29Z</time>
+<cmt>Flauwe bocht naar rechts naar   Route Edmond de Rothschild/de D309A</cmt>
+<desc>Flauwe bocht naar rechts naar   Route Edmond de Rothschild/de D309A</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.85756" lon="6.62074">
+<ele>1115</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T00:49:45Z</time>
+<cmt>Sla rechtsaf om op Route Edmond de Rothschild/de D309A te blijven</cmt>
+<desc>Sla rechtsaf om op Route Edmond de Rothschild/de D309A te blijven</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.85737" lon="6.61986">
+<ele>1112</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:49:58Z</time>
+<cmt>Vertrek in westelijke richting op Place de la Résistance/de D309A naar Rue Saint-Jean</cmt>
+<desc>Vertrek in westelijke richting op Place de la Résistance/de D309A naar Rue Saint-Jean</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.85754" lon="6.61919">
+<ele>1107</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T00:50:10Z</time>
+<cmt>Sla linksaf naar Rue Charles Feige</cmt>
+<desc>Sla linksaf naar Rue Charles Feige</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="45.85696" lon="6.61804">
+<ele>1107</ele>
+<name>Weg vervol</name>
+<time>2018-06-28T00:50:30Z</time>
+<cmt>Weg vervolgen naar Place de l'Église</cmt>
+<desc>Weg vervolgen naar Place de l'Église</desc>
+<sym>undefined</sym>
+</rtept>
+</rte>
+</gpx>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<rte>
+<name>Tour De France 2016 Stage 13</name>
+<rtept lat="44.37227" lon="4.64381">
+<ele>71</ele>
+<name>Start near</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Start near 12 Avenue Félix Chalamel, 07700 Bourg-Saint-Andéol, Frankrijk</cmt>
+<desc>Start near 12 Avenue Félix Chalamel, 07700 Bourg-Saint-Andéol, Frankrijk</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.37227" lon="4.64381">
+<ele>71</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:00:00Z</time>
+<cmt>Vertrek in noordwestelijke richting op Avenue Félix Chalamel/de D4 naar Chemin de la Barrière</cmt>
+<desc>Vertrek in noordwestelijke richting op Avenue Félix Chalamel/de D4 naar Chemin de la Barrière</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.37297" lon="4.64178">
+<ele>73</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:00:35Z</time>
+<cmt>Neem op de rotonde de 2e afslag naar Avenue Jean Moulin/de D4</cmt>
+<desc>Neem op de rotonde de 2e afslag naar Avenue Jean Moulin/de D4</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.3839" lon="4.62522">
+<ele>174</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:07:30Z</time>
+<cmt>Vertrek in noordwestelijke richting op Le Croc/de D4 naar ZI d'Encros</cmt>
+<desc>Vertrek in noordwestelijke richting op Le Croc/de D4 naar ZI d'Encros</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.39261" lon="4.5052">
+<ele>369</ele>
+<name>Neem op de</name>
+<time>2018-06-28T00:46:17Z</time>
+<cmt>Neem op de rotonde de 3e afslag naar de D490</cmt>
+<desc>Neem op de rotonde de 3e afslag naar de D490</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.39247" lon="4.50314">
+<ele>368</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T00:46:53Z</time>
+<cmt>Sla linksaf naar Le Village/de D490</cmt>
+<desc>Sla linksaf naar Le Village/de D490</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.38715" lon="4.47967">
+<ele>373</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T00:53:04Z</time>
+<cmt>Vertrek in zuidwestelijke richting op de D490 naar Hauts Arredons</cmt>
+<desc>Vertrek in zuidwestelijke richting op de D490 naar Hauts Arredons</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.37446" lon="4.4399">
+<ele>319</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T01:05:45Z</time>
+<cmt>Ga rechtdoor op de D290</cmt>
+<desc>Ga rechtdoor op de D290</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.39071" lon="4.40491">
+<ele>102</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T01:28:04Z</time>
+<cmt>Sla linksaf richting Arduc</cmt>
+<desc>Sla linksaf richting Arduc</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.38984" lon="4.40548">
+<ele>94</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T01:28:25Z</time>
+<cmt>Sla linksaf naar Arduc</cmt>
+<desc>Sla linksaf naar Arduc</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.38961" lon="4.4062">
+<ele>100</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:28:36Z</time>
+<cmt>Vertrek in westelijke richting op   Arduc</cmt>
+<desc>Vertrek in westelijke richting op   Arduc</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.38984" lon="4.40548">
+<ele>94</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:28:48Z</time>
+<cmt>Sla rechtsaf richting Mezelet/de D290</cmt>
+<desc>Sla rechtsaf richting Mezelet/de D290</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.39071" lon="4.40491">
+<ele>102</ele>
+<name>Sla linksa</name>
+<time>2018-06-28T01:29:08Z</time>
+<cmt>Sla linksaf naar Mezelet/de D290</cmt>
+<desc>Sla linksaf naar Mezelet/de D290</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.39866" lon="4.39597">
+<ele>89</ele>
+<name>Neem op de</name>
+<time>2018-06-28T01:33:50Z</time>
+<cmt>Neem op de rotonde de 1ste afslag op de D390 richting St Maurice d'Ibie/St Remèze/Lagorce</cmt>
+<desc>Neem op de rotonde de 1ste afslag op de D390 richting St Maurice d'Ibie/St Remèze/Lagorce</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.40829" lon="4.39749">
+<ele>111</ele>
+<name>Sla rechts</name>
+<time>2018-06-28T01:37:12Z</time>
+<cmt>Sla rechtsaf naar Rue du Miarou/de D1</cmt>
+<desc>Sla rechtsaf naar Rue du Miarou/de D1</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.40925" lon="4.40248">
+<ele>103</ele>
+<name>Ga rechtdo</name>
+<time>2018-06-28T01:38:27Z</time>
+<cmt>Ga rechtdoor op Route de Bourg/de D4</cmt>
+<desc>Ga rechtdoor op Route de Bourg/de D4</desc>
+<sym>undefined</sym>
+</rtept>
+<rtept lat="44.40669" lon="4.41002">
+<ele>105</ele>
+<name>Vertrek in</name>
+<time>2018-06-28T01:40:31Z</time>
+<cmt>Vertrek in zuidoostelijke richting op   de D4</cmt>
+<desc>Vertrek in zuidoostelijke richting op   de D4</desc>
+<sym>undefined</sym>
+</rtept>
+</rte>
+</gpx>
